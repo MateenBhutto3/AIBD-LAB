@@ -1,0 +1,764 @@
+[
+  {
+    "slug": "JiayingWang",
+    "name": {
+      "en": "Jiaying Wang",
+      "zh": "王佳英"
+    },
+    "role": "faculty",
+    "position": {
+      "en": "Associate Professor",
+      "zh": "副教授"
+    },
+    "cohort": null,
+    "email": "jiaying@sut.edu.cn",
+    "orcid": "0000-0002-7940-7801",
+    "photo": {
+      "src": "people/jiaying-wang",
+      "width": 360,
+      "height": 520
+    },
+    "researchInterests": {
+      "en": [
+        "Multimodal deep learning",
+        "Big data",
+        "Query optimization"
+      ],
+      "zh": [
+        "多模态深度学习",
+        "大数据",
+        "查询优化"
+      ]
+    },
+    "bio": {
+      "en": "I am currently the head of the Multimodal Data Intelligence Research Team and deputy director of the Institute of E-commerce and Information Management at Shenyang University of Technology, a doctoral supervisor, a senior member of the China Computer Federation(CCF), a member of the Chinese Association for Artificial Intelligence(CAAI), an ACM member, and an IEEE member. Selected for the \"Hundred, Thousand, Ten Thousand\" Talent Program of Liaoning Province(\"Ten Thousand\" level),  a top talent of Shenyang City, an executive member of the CCF Special Committee on Information Systems, a technical expert of Liaoning Province, and a technical expert of Shenyang City. My main research focus is on multimodal big data intelligent algorithms. As a key researcher, I have led and participated in multiple research projects funded by the National Natural Science Foundation of China. I have led one National Natural Science Foundation of China - Youth Fund project, one Liaoning Provincial Decision-making Consultation and New Think Tank Special Research Project, two Liaoning Provincial Education Department Fund projects, and one Liaoning Provincial Archives Bureau Science and Technology Project. I have published over 40 academic papers, including in top international journals and conferences such as CVPR, AAAI, ICDE, CSUR and TKDE, and have obtained three Chinese invention patent. I won the championship in the Artificial Intelligence Engineering Technology category of the Second Liaoning Province Vocational Skills Competition and the Third Shenyang City \"Pass on skills with ease\" Vocational Skills Competition.",
+      "zh": "我目前是沈阳工业大学多模态数据智能科研团队负责人，电子商务与信息管理研究所副所长，博士生导师，中国计算机学会高级会员，人工智能学会会员，ACM会员，IEEE会员。入选辽宁省百千万人才工程(万人层次)，沈阳市拔尖人才，CCF信息系统专委会执行委员，辽宁省技术能手，沈阳市技术能手。主要致力于多模态大数据智能算法的研究工作，作为主要科研人员主持和参与了多项国家自然科学基金课题的研究。主持国家自然科学基金-青年基金1项，辽宁省决策咨询和新型智库专项研究课题1项，辽宁省教育厅基金2项，辽宁省档案局科技项目1项。发表学术论文40余篇，其中包括CVPR，AAAI，ICDE，CSUR，TKDE等国际顶级会议/期刊，获得三项中国发明专利。获辽宁省第二届职业技能大赛人工智能工程技术赛项冠军，沈阳市第三届“舒心传技”职业技能大赛人工智能工程技术赛项冠军。"
+    },
+    "order": 0,
+    "lead": true,
+    "titles": {
+      "en": [
+        "Associate Professor & Doctoral Supervisor, School of Software, Shenyang University of Technology",
+        "Head, Multimodal Data Intelligence Research Team",
+        "Deputy Director, Institute of E-commerce and Information Management"
+      ],
+      "zh": [
+        "沈阳工业大学软件学院 副教授、博士生导师",
+        "多模态数据智能科研团队负责人",
+        "电子商务与信息管理研究所副所长"
+      ]
+    },
+    "memberships": {
+      "en": [
+        "Senior Member, China Computer Federation (CCF)",
+        "Executive Member, CCF Technical Committee on Information Systems",
+        "Member, Chinese Association for Artificial Intelligence (CAAI)",
+        "Member, ACM",
+        "Member, IEEE"
+      ],
+      "zh": [
+        "中国计算机学会（CCF）高级会员",
+        "CCF信息系统专委会执行委员",
+        "中国人工智能学会会员",
+        "ACM会员",
+        "IEEE会员"
+      ]
+    },
+    "honours": {
+      "en": [
+        "Liaoning \"Hundred, Thousand, Ten Thousand\" Talent Program (\"Ten Thousand\" level)",
+        "Top Talent of Shenyang City",
+        "Technical Expert of Liaoning Province",
+        "Technical Expert of Shenyang City"
+      ],
+      "zh": [
+        "辽宁省百千万人才工程（万人层次）",
+        "沈阳市拔尖人才",
+        "辽宁省技术能手",
+        "沈阳市技术能手"
+      ]
+    }
+  },
+  {
+    "slug": "JingShan",
+    "name": {
+      "en": "Jing Shan",
+      "zh": "单菁"
+    },
+    "role": "faculty",
+    "position": {
+      "en": "Associate Professor",
+      "zh": "副教授"
+    },
+    "cohort": null,
+    "email": "shanjing@sut.edu.cn",
+    "orcid": "0000-0001-8209-1775",
+    "photo": {
+      "src": "people/jing-shan",
+      "width": 360,
+      "height": 520
+    },
+    "researchInterests": {
+      "en": [
+        "Natural language processing",
+        "Sentiment analysis"
+      ],
+      "zh": [
+        "自然语言处理",
+        "情感分析"
+      ]
+    },
+    "bio": {
+      "en": "I graduated from Northeastern University with a doctoral degree in Computer Software and Theory, holding the position of full-time teacher. I am a master's supervisor, a member of the CCF (China Computer Federation), an IEEE member, a member of the \"Hundred, Thousand, Ten Thousand\" Talent Program of Liaoning Province at the \"Ten Thousand\" level, a top talent in Shenyang, and an executive member of the CCF Information System Special Committee. My main research focuses on social network analysis, graph mining, and intelligent algorithms for multi-modal big data. As a key research team member, I have led and participated in several research projects funded by the National Natural Science Foundation of China. I have been the principal investigator of one National Natural Science Foundation - Young Fund project, and have also participated in special research projects for decision-making consultation and new think tanks in Liaoning Province, as well as projects funded by the Education Department of Liaoning Province and the Science and Technology Project of the Liaoning Provincial Archives Bureau. I have published over 20 academic papers, including those in international top-tier journals and conferences such as WWWJ and AAAI.",
+      "zh": "我毕业于东北大学，获计算机软件与理论博士学位，专任教师职务。硕士生导师，中国计算机学会CCF会员，IEEE会员，辽宁省百千万人才工程-万人层次，沈阳市拔尖人才，CCF信息系统专委会执行委员。主要致力于社交网络分析、图挖掘和多模态大数据智能算法的研究工作，作为主要科研人员主持和参加多项国家自然科学基金课题的研究。主持国家自然科学基金-青年基金1项，参与辽宁省决策咨询和新型智库专项研究课题、辽宁省教育厅基金项目、辽宁省档案局科技项目等。发表学术论文20余篇，其中包括WWWJ，AAAI等国际顶级期刊和会议论文。"
+    },
+    "order": 1,
+    "titles": {
+      "en": [
+        "Associate Professor & Master's Supervisor, School of Software, Shenyang University of Technology"
+      ],
+      "zh": [
+        "沈阳工业大学软件学院 副教授、硕士生导师"
+      ]
+    },
+    "education": {
+      "en": [
+        "Ph.D. in Computer Software and Theory, Northeastern University"
+      ],
+      "zh": [
+        "东北大学 计算机软件与理论 博士"
+      ]
+    }
+  },
+  {
+    "slug": "XiaoxuSong",
+    "name": {
+      "en": "Xiaoxu Song",
+      "zh": "宋晓旭"
+    },
+    "role": "faculty",
+    "position": {
+      "en": "Lecturer",
+      "zh": "讲师"
+    },
+    "cohort": null,
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [],
+      "zh": []
+    },
+    "bio": null,
+    "order": 2
+  },
+  {
+    "slug": "YuchengLi",
+    "name": {
+      "en": "Yucheng Li",
+      "zh": "李俞呈"
+    },
+    "role": "faculty",
+    "position": {
+      "en": "Lecturer",
+      "zh": "讲师"
+    },
+    "cohort": null,
+    "email": "yucheng.lee@sut.edu.cn",
+    "orcid": "0000-0002-6766-7331",
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Time series data mining"
+      ],
+      "zh": [
+        "时间序列数据挖掘"
+      ]
+    },
+    "bio": null,
+    "order": 3
+  },
+  {
+    "slug": "YingTan",
+    "name": {
+      "en": "Ying Tan",
+      "zh": "谭营"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2021",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [],
+      "zh": []
+    },
+    "bio": null,
+    "order": 4
+  },
+  {
+    "slug": "HengYang",
+    "name": {
+      "en": "Heng Yang",
+      "zh": "杨恒"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2021",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Traffic flow prediction"
+      ],
+      "zh": [
+        "交通流量预测"
+      ]
+    },
+    "bio": null,
+    "order": 5
+  },
+  {
+    "slug": "ZihongZhao",
+    "name": {
+      "en": "Zihong Zhao",
+      "zh": "赵梓宏"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2021",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [],
+      "zh": []
+    },
+    "bio": null,
+    "order": 6
+  },
+  {
+    "slug": "ZhaoyongYang",
+    "name": {
+      "en": "Zhaoyong Yang",
+      "zh": "杨兆勇"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2021",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [],
+      "zh": []
+    },
+    "bio": null,
+    "order": 7
+  },
+  {
+    "slug": "ChenyangWang",
+    "name": {
+      "en": "Chenyang Wang",
+      "zh": "王晨阳"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2022",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [],
+      "zh": []
+    },
+    "bio": null,
+    "order": 8
+  },
+  {
+    "slug": "XiaoxuanMa",
+    "name": {
+      "en": "Xiaoxuan Ma",
+      "zh": "马晓萱"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2022",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Text-to-image generation"
+      ],
+      "zh": [
+        "文本到图像生成"
+      ]
+    },
+    "bio": null,
+    "order": 9
+  },
+  {
+    "slug": "Caolijun",
+    "name": {
+      "en": "Lijun Cao",
+      "zh": "曹利君"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2022",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Multimodal fusion",
+        "Model application"
+      ],
+      "zh": [
+        "多模态融合",
+        "模型应用"
+      ]
+    },
+    "bio": null,
+    "order": 10
+  },
+  {
+    "slug": "ShuailingHao",
+    "name": {
+      "en": "Shuailing Hao",
+      "zh": "郝帅领"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2022",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Image captioning"
+      ],
+      "zh": [
+        "图像描述生成"
+      ]
+    },
+    "bio": null,
+    "order": 11
+  },
+  {
+    "slug": "QianqianLin",
+    "name": {
+      "en": "Qianqian Lin",
+      "zh": "林倩倩"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2023",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Visual Grounding"
+      ],
+      "zh": [
+        "视觉定位"
+      ]
+    },
+    "bio": null,
+    "order": 12
+  },
+  {
+    "slug": "ZiyangHe",
+    "name": {
+      "en": "Ziyang He",
+      "zh": "赫梓杨"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2023",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Time Series Forecasting"
+      ],
+      "zh": [
+        "时间序列预测"
+      ]
+    },
+    "bio": null,
+    "order": 13
+  },
+  {
+    "slug": "MengyangZhang",
+    "name": {
+      "en": "Mengyang Zhang",
+      "zh": "张梦洋"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2023",
+    "email": "ZMYang@smail.sut.edu.cn",
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Image denoising"
+      ],
+      "zh": [
+        "图像去噪"
+      ]
+    },
+    "bio": null,
+    "order": 14
+  },
+  {
+    "slug": "WuyouWang",
+    "name": {
+      "en": "Wuyou Wang",
+      "zh": "王无忧"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2023",
+    "email": "wuyouwang418@smail.sut.edu.cn",
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Human object interaction"
+      ],
+      "zh": [
+        "人物交互"
+      ]
+    },
+    "bio": null,
+    "order": 15
+  },
+  {
+    "slug": "MeilinLiu",
+    "name": {
+      "en": "Meilin Liu",
+      "zh": "刘美琳"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2023",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Multi-modal deep learning"
+      ],
+      "zh": [
+        "多模态深度学习"
+      ]
+    },
+    "bio": null,
+    "order": 16
+  },
+  {
+    "slug": "WenlongJia",
+    "name": {
+      "en": "Wenlong Jia",
+      "zh": "贾文龙"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2023",
+    "email": "jwlong@smail.sut.edu.cn",
+    "orcid": "0009-0008-7110-5789",
+    "photo": {
+      "src": "people/wenlong-jia",
+      "width": 360,
+      "height": 475
+    },
+    "researchInterests": {
+      "en": [
+        "Aspect-Based Sentiment Analysis"
+      ],
+      "zh": [
+        "方面级情感分析"
+      ]
+    },
+    "bio": {
+      "en": "I am Wenlong Jia, currently pursuing a master’s degree at the School of Software, Shenyang University of Technology. My research interests lie in sentiment analysis, aspect-based sentiment analysis, and fine-grained opinion understanding in user-generated content. I am currently working on aspect-based sentiment quadruple extraction, with a particular focus on discourse-aware and context-aware modeling for complex sentiment analysis tasks. I recently published a systematic review on implicit aspect-based sentiment analysis in ACM Computing Surveys, which, to the best of our knowledge, is the first survey dedicated to implicit sentiment extraction across single and compound ABSA tasks. I have a solid mathematical foundation and a strong interest in methodological innovation, and I have received more than ten national-level awards, including distinctions in mathematical modeling and innovation and entrepreneurship competitions, as well as the National Scholarship. In the future, I hope to further explore multimodal deep learning and more generalizable sentiment understanding methods.",
+      "zh": "我是贾文龙，目前在沈阳工业大学软件学院攻读硕士学位。我的研究兴趣集中在情感分析、方面级情感分析以及用户生成内容中的细粒度观点理解上。目前我正在从事基于方面级的情感四元组提取工作，特别关注针对复杂情感分析任务的语篇感知和语境感知建模。我最近在ACM Computing Surveys上发表了一篇关于隐式方面级情感分析的系统综述，据我们所知，这是首个专门针对单个和复合的ABSA任务进行隐式情感提取的综述。我拥有扎实的数学基础和对方法创新的浓厚兴趣，并且获得了超过十项国家级奖项，包括数学建模和创新创业竞赛中的奖项，以及国家奖学金。未来，我希望进一步探索多模态深度学习和更通用的情感理解方法。"
+    },
+    "order": 17
+  },
+  {
+    "slug": "YulongMa",
+    "name": {
+      "en": "Yulong Ma",
+      "zh": "马雨龙"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2023",
+    "email": null,
+    "orcid": "0009-0004-7387-067X",
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Image Captioning"
+      ],
+      "zh": [
+        "图像描述生成"
+      ]
+    },
+    "bio": null,
+    "order": 18
+  },
+  {
+    "slug": "MingyangCao",
+    "name": {
+      "en": "Mingyang Cao",
+      "zh": "曹名洋"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2023",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Dialogue summarization"
+      ],
+      "zh": [
+        "对话摘要"
+      ]
+    },
+    "bio": null,
+    "order": 19
+  },
+  {
+    "slug": "RuichenLiu",
+    "name": {
+      "en": "Ruichen Liu",
+      "zh": "刘睿琛"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2024",
+    "email": "liuruichen329@smail.sut.edu.cn",
+    "orcid": "0009-0002-3131-5235",
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Retrieval-augmented generation"
+      ],
+      "zh": [
+        "检索增强生成"
+      ]
+    },
+    "bio": null,
+    "order": 20
+  },
+  {
+    "slug": "JianyuZhang",
+    "name": {
+      "en": "Jianyu Zhang",
+      "zh": "张建宇"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2024",
+    "email": "jianyu@smail.sut.edu.cn",
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Text-to-image generation"
+      ],
+      "zh": [
+        "文本生成图像"
+      ]
+    },
+    "bio": null,
+    "order": 21
+  },
+  {
+    "slug": "LetongWang",
+    "name": {
+      "en": "Letong Wang",
+      "zh": "王乐桐"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2024",
+    "email": null,
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Multimodal sentiment analysis"
+      ],
+      "zh": [
+        "多模态情感分析"
+      ]
+    },
+    "bio": null,
+    "order": 22
+  },
+  {
+    "slug": "ZhuoWu",
+    "name": {
+      "en": "Zhuo Wu",
+      "zh": "吴茁"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2024",
+    "email": "wuzhuo@smail.sut.edu.cn",
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Infrared small target detection"
+      ],
+      "zh": [
+        "红外线小目标检测"
+      ]
+    },
+    "bio": null,
+    "order": 23
+  },
+  {
+    "slug": "AichenZhang",
+    "name": {
+      "en": "Aichen Zhang",
+      "zh": "张爱晨"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2024",
+    "email": "zhangaichen@smail.sut.edu.cn",
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [],
+      "zh": []
+    },
+    "bio": null,
+    "order": 24
+  },
+  {
+    "slug": "YueWang",
+    "name": {
+      "en": "Yue Wang",
+      "zh": "王悦"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2024",
+    "email": "wy15206546932@smail.sut.edu.cn",
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [],
+      "zh": []
+    },
+    "bio": null,
+    "order": 25
+  },
+  {
+    "slug": "YilunCheng",
+    "name": {
+      "en": "Yilun Cheng",
+      "zh": "程一伦"
+    },
+    "role": "master",
+    "position": {
+      "en": "Master's Student",
+      "zh": "硕士研究生"
+    },
+    "cohort": "2025",
+    "email": "yilun518417@smail.sut.edu.cn",
+    "orcid": null,
+    "photo": null,
+    "researchInterests": {
+      "en": [
+        "Multimodal sentiment analysis"
+      ],
+      "zh": [
+        "多模态情感分析"
+      ]
+    },
+    "bio": null,
+    "order": 26
+  }
+]

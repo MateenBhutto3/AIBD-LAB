@@ -1,0 +1,220 @@
+[
+  {
+    "slug": "multimodal-learning",
+    "icon": "multimodal",
+    "title": {
+      "en": "Multimodal Deep Learning",
+      "zh": "多模态深度学习"
+    },
+    "summary": {
+      "en": "Learning joint representations across text, images and other modalities — from text-to-image generation and image captioning to visual grounding and robust multimodal fusion.",
+      "zh": "研究文本、图像等多种模态的联合表征学习，涵盖文本生成图像、图像描述生成、视觉定位与鲁棒多模态融合等方向。"
+    },
+    "body": {
+      "en": [
+        "Multimodal deep learning is the lab's central research theme and the focus of the Multimodal Data Intelligence Research Team led by Associate Professor Jiaying Wang. The team studies how models can align, fuse and generate information across language and vision.",
+        "Recent work includes compositional and diversity-aware text-to-image generation (CSAI, Dice-GAN), visual grounding with dynamic gating and dual-stream attention, human–object interaction detection with multi-relational context learning, vision-language models for product understanding (AAAI 2024) and industrial steel-surface defect detection, and modality-robust federated learning for heterogeneous medical data (OmniFM, CVPR 2026)."
+      ],
+      "zh": [
+        "多模态深度学习是实验室的核心研究方向，也是王佳英副教授领衔的多模态数据智能科研团队的主要研究内容。团队关注模型如何在语言与视觉之间实现信息的对齐、融合与生成。",
+        "近期工作包括：组合式与多样性增强的文本生成图像（CSAI、Dice-GAN）、基于动态门控与双流注意力的视觉定位、基于多关系上下文学习的人物交互检测、面向商品理解（AAAI 2024）与工业钢材表面缺陷检测的视觉语言模型，以及面向异构医疗数据的模态鲁棒联邦学习（OmniFM，CVPR 2026）。"
+      ]
+    },
+    "topics": {
+      "en": ["Text-to-image generation", "Image captioning", "Visual grounding", "Human–object interaction", "Vision-language models", "Multimodal federated learning"],
+      "zh": ["文本生成图像", "图像描述生成", "视觉定位", "人物交互检测", "视觉语言模型", "多模态联邦学习"]
+    },
+    "keywords": ["multimodal", "text-to-image", "caption", "grounding", "interaction", "vision", "image", "visual", "gan", "omnifm", "多模态", "图像", "视觉", "人物交互", "文本生成图像"],
+    "publications": [
+      "2026-omnifm-toward-modality-robust-and-task-agnostic",
+      "2026-dice-gan-generative-adversarial-network-with-div",
+      "2026-csai-cross-and-self-attention-interaction-for-co",
+      "2025-improve-visual-grounding-with-dynamic-gating-and",
+      "2025-multi-relational-context-learning-with-cross-att",
+      "2025-an-enhanced-retrieval-method-for-image-captionin",
+      "2024-visual-language-let-the-product-say-what-you-wan",
+      "2024-multi-level-supervised-vision-language-model-bas",
+      "2024-frontiers-of-multimodal-deep-learning"
+    ],
+    "projects": ["p3", "p6"]
+  },
+  {
+    "slug": "sentiment-nlp",
+    "icon": "language",
+    "title": {
+      "en": "Natural Language Processing & Sentiment Analysis",
+      "zh": "自然语言处理与情感分析"
+    },
+    "summary": {
+      "en": "Fine-grained understanding of opinions and conversations: aspect-based and multimodal sentiment analysis, dialogue summarization and text understanding.",
+      "zh": "面向观点与对话的细粒度理解：方面级情感分析、多模态情感分析、对话摘要与文本理解。"
+    },
+    "body": {
+      "en": [
+        "This direction studies how machines understand sentiment and meaning in user-generated text and conversation. Work spans implicit aspect-based sentiment analysis — including a systematic review published in ACM Computing Surveys — and conversational sentiment quadruple analysis with structure-aware heterogeneous attention (SHARP, Expert Systems with Applications).",
+        "The team also develops robust multimodal sentiment analysis under missing modalities (FAME, topological prototype learning), multi-task generative dialogue summarization with topic-based data augmentation (MTGDS, Computer Speech & Language), knowledge-based sensitivity detection for film reviews, code summarization and generation, and entity recognition. The SHARP and MTGDS projects have been released as open source."
+      ],
+      "zh": [
+        "该方向研究机器如何理解用户生成文本与对话中的情感与语义。工作涵盖隐式方面级情感分析（包括发表于 ACM Computing Surveys 的系统综述），以及基于结构感知异构注意力的对话情感四元组分析（SHARP，Expert Systems with Applications）。",
+        "团队还开展模态缺失条件下的鲁棒多模态情感分析（FAME、拓扑原型学习）、基于主题数据增强的多任务生成式对话摘要（MTGDS，Computer Speech & Language）、基于知识的影评敏感性检测、代码摘要与生成以及实体识别等研究。SHARP 与 MTGDS 项目均已开源。"
+      ]
+    },
+    "topics": {
+      "en": ["Aspect-based sentiment analysis", "Multimodal sentiment analysis", "Dialogue summarization", "Sensitivity detection", "Code summarization", "Named entity recognition"],
+      "zh": ["方面级情感分析", "多模态情感分析", "对话摘要", "敏感性检测", "代码摘要", "命名实体识别"]
+    },
+    "keywords": ["sentiment", "dialogue", "summar", "language", "text", "nlp", "情感", "对话", "自然语言"],
+    "publications": [
+      "2026-implicit-aspect-based-sentiment-analysis-a-syste",
+      "2026-sharp-structure-aware-heterogeneous-attention-wi",
+      "2026-multi-task-generative-dialogue-summarization-lea",
+      "2026-fame-fusion-adaptation-and-modality-excitation-f",
+      "2026-topological-prototype-learning-for-robust-multim",
+      "2025-ksdf-a-knowledge-based-sensitivity-detection-fra",
+      "2024-dual-learning-model-of-code-summary-and-generati",
+      "2024-high-school-mathematics-knowledge-entity-recogni",
+      "2019-text-classification-using-scope-based-convolutio"
+    ],
+    "projects": []
+  },
+  {
+    "slug": "llm-knowledge",
+    "icon": "knowledge",
+    "title": {
+      "en": "Large Language Models & Knowledge Graphs",
+      "zh": "大语言模型与知识图谱"
+    },
+    "summary": {
+      "en": "Combining large language models with structured knowledge for retrieval-augmented generation, question answering and recommendation.",
+      "zh": "将大语言模型与结构化知识相结合，研究检索增强生成、智能问答与推荐。"
+    },
+    "body": {
+      "en": [
+        "Building on its multimodal and NLP foundations, the lab investigates how large language models (LLMs) can be grounded in knowledge graphs and external retrieval to produce reliable answers.",
+        "Results include a multimodal outfit-recommendation question-answering system based on LLMs and knowledge graphs (The Computer Journal), granted Chinese invention patents on multimodal clothing recommendation and dynamic-strategy medical question answering with LLMs and knowledge graphs, and an LLM-based adaptive cognitive learning network simulation system."
+      ],
+      "zh": [
+        "在多模态与自然语言处理研究的基础上，实验室探索如何借助知识图谱与外部检索增强大语言模型，使其给出更可靠的回答。",
+        "相关成果包括：基于大语言模型与知识图谱的多模态服装推荐问答系统（The Computer Journal），多模态服装推荐方法、基于大型语言模型和知识图谱的动态策略医学问答方法等国家发明专利，以及基于大语言模型的自适应认知学习网络模拟系统。"
+      ]
+    },
+    "topics": {
+      "en": ["Retrieval-augmented generation", "Knowledge graphs", "Question answering", "Recommendation"],
+      "zh": ["检索增强生成", "知识图谱", "智能问答", "推荐系统"]
+    },
+    "keywords": ["retrieval", "llm", "knowledge", "大语言模型", "大型语言模型", "检索增强", "知识图谱"],
+    "publications": [
+      "2026-a-multimodal-outfit-recommendation-q-a-system-ba",
+      "2026-a-multimodal-clothing-recommendation-method",
+      "2026-a-dynamic-strategy-medical-question-answering-me",
+      "2025-an-adaptive-cognitive-learning-network-simulatio"
+    ],
+    "projects": []
+  },
+  {
+    "slug": "big-data-query",
+    "icon": "database",
+    "title": {
+      "en": "Big Data Management & Query Optimization",
+      "zh": "大数据管理与查询优化"
+    },
+    "summary": {
+      "en": "Efficient similarity search, approximate matching and query processing over massive text and genomic data.",
+      "zh": "面向海量文本与基因数据的高效相似性搜索、近似匹配与查询处理。"
+    },
+    "body": {
+      "en": [
+        "A long-standing line of the lab's work concerns the efficient management and querying of large-scale data. Contributions include local similarity join on string collections (LS-Join, IEEE TKDE and ICDE), adaptive approximate substring matching (DASFAA), direct search on compressed genomic data (ICDE), and cache-aware and memory-aware BWT-based matching algorithms.",
+        "Related work addresses error-tolerant phrase mining on text corpora (Expert Systems with Applications), query relaxation and correlated query-path selection on the deep web, web data extraction and a survey of string similarity search and join (ACM SIGMOD Record). This direction is supported by National Natural Science Foundation of China projects on approximate entity matching over massive text data."
+      ],
+      "zh": [
+        "大规模数据的高效管理与查询是实验室长期坚持的研究方向。代表性成果包括：字符串集合上的局部相似性连接（LS-Join，IEEE TKDE 与 ICDE）、自适应近似子串匹配（DASFAA）、压缩基因组数据上的直接检索（ICDE），以及基于 BWT 的缓存感知与内存感知匹配算法。",
+        "相关工作还包括：文本语料上的高质量容错短语挖掘（Expert Systems with Applications）、深网查询松弛与关联查询路径选择、Web 数据抽取，以及字符串相似性搜索与连接综述（ACM SIGMOD Record）。该方向得到国家自然科学基金“海量文本数据下实体智能近似匹配的关键技术研究”等项目支持。"
+      ]
+    },
+    "topics": {
+      "en": ["Similarity join", "Approximate string matching", "Compressed genomic data", "Query optimization", "Web data extraction"],
+      "zh": ["相似性连接", "近似字符串匹配", "压缩基因数据检索", "查询优化", "Web 数据抽取"]
+    },
+    "keywords": ["query", "big data", "大数据", "查询"],
+    "publications": [
+      "2018-ls-join-local-similarity-join-on-string-collecti",
+      "2017-ls-join-local-similarity-join-on-string-collecti",
+      "2021-high-quality-error-tolerant-phrase-mining-on-tex",
+      "2016-an-adaptive-approach-of-approximate-substring-ma",
+      "2016-efficient-query-methods-for-compressed-biologica",
+      "2016-a-multi-core-parallel-substring-matching-algorit",
+      "2014-state-of-the-art-in-string-similarity-search-and",
+      "2013-efficient-direct-search-on-compressed-genomic-da",
+      "2013-cache-aware-parallel-approximate-matching-and-jo",
+      "2012-memory-aware-bwt-by-segmenting-sequences-to-supp",
+      "2012-an-entity-class-model-based-correlated-query-pat",
+      "2011-a-bottom-up-approach-of-web-data-extraction-base",
+      "2010-an-effective-and-high-quality-query-relaxation-s"
+    ],
+    "projects": ["p1", "p8"]
+  },
+  {
+    "slug": "time-series",
+    "icon": "timeseries",
+    "title": {
+      "en": "Time Series & Spatio-temporal Mining",
+      "zh": "时间序列与时空数据挖掘"
+    },
+    "summary": {
+      "en": "Attention-based models for time series forecasting, traffic flow prediction and network anomaly detection.",
+      "zh": "基于注意力机制的时间序列预测、交通流量预测与网络异常检测。"
+    },
+    "body": {
+      "en": [
+        "This direction develops deep models for sequential and spatio-temporal data. Work includes an adjustable series-wise attention mechanism for time series forecasting (Expert Systems with Applications), attention-based spatial-temporal fusion networks for traffic flow prediction (WISA), and LSTM-based network traffic anomaly detection with attention."
+      ],
+      "zh": [
+        "该方向面向序列数据与时空数据构建深度模型。相关工作包括：面向时间序列预测的可调序列注意力机制（Expert Systems with Applications）、基于注意力的时空融合交通流量预测网络（WISA），以及基于注意力机制与 LSTM 的网络流量异常检测。"
+      ]
+    },
+    "topics": {
+      "en": ["Time series forecasting", "Traffic flow prediction", "Anomaly detection"],
+      "zh": ["时间序列预测", "交通流量预测", "异常检测"]
+    },
+    "keywords": ["time series", "traffic", "时间序列", "交通流量"],
+    "publications": [
+      "2026-an-adjustable-series-wise-attention-mechanism-fo",
+      "2024-attention-based-spatial-temporal-fusion-networks",
+      "2024-network-traffic-anomaly-detection-based-on-atten"
+    ],
+    "projects": []
+  },
+  {
+    "slug": "graph-mining",
+    "icon": "graph",
+    "title": {
+      "en": "Social Network Analysis & Graph Mining",
+      "zh": "社交网络分析与图挖掘"
+    },
+    "summary": {
+      "en": "Community search, community structure and information propagation in large social and information networks.",
+      "zh": "面向大规模社交网络与信息网络的社区搜索、社区结构与信息传播研究。"
+    },
+    "body": {
+      "en": [
+        "Social network analysis and graph mining are core research interests of Associate Professor Jing Shan. This work studies the structure of complex networks. Contributions include efficient overlapping community search (DASFAA, Student Best Paper Award), overlapping community search for group queries (World Wide Web), propagation hotspot selection based on overlapping communities (Journal of Software), and the symmetry structure of complex communities. Related work on cross-platform team formation was supported by the National Natural Science Foundation of China."
+      ],
+      "zh": [
+        "社交网络分析与图挖掘是单菁副教授的主要研究方向之一，重点研究复杂网络的结构特性。代表性成果包括：高效重叠社区搜索（DASFAA，最佳学生论文奖）、面向群组查询的重叠社区搜索（World Wide Web）、基于重叠社区搜索的传播热点选择方法（软件学报）以及复杂社区的对称结构研究。基于跨平台资源整合的团队形成相关研究获得国家自然科学基金资助。"
+      ]
+    },
+    "topics": {
+      "en": ["Community search", "Social network analysis", "Information propagation", "Team formation"],
+      "zh": ["社区搜索", "社交网络分析", "信息传播", "团队形成"]
+    },
+    "keywords": ["graph", "social", "community", "图挖掘", "社交网络"],
+    "publications": [
+      "2016-searching-overlapping-communities-for-group-quer",
+      "2015-an-efficient-approach-of-overlapping-communities",
+      "2017-a-propagation-hotspot-selection-method-based-on",
+      "2019-symmetry-structure-research-of-complex-community"
+    ],
+    "projects": ["p2"]
+  }
+]

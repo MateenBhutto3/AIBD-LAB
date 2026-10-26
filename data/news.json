@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-05-27",
+    "title": {
+      "en": "Our dialogue summary project MTGDS has been officially open-sourced!",
+      "zh": "我们的对话摘要项目MTGDS正式开源了！"
+    },
+    "link": "https://gitcode.com/aibd/MTGDS"
+  },
+  {
+    "date": "2026-05-10",
+    "title": {
+      "en": "Our sentiment analysis project SHARP has been officially open-sourced!",
+      "zh": "我们的情感分析项目SHARP正式开源了！"
+    },
+    "link": "https://atomgit.com/aibd/SHARP"
+  },
+  {
+    "date": "2026-05-10",
+    "title": {
+      "en": "Congratulations on the acceptance of our paper by Expert Systems with Applications!",
+      "zh": "祝贺我们的论文被Expert Systems with Applications录用！"
+    },
+    "link": "https://mp.weixin.qq.com/s/uwH1SkfMTEEHdugT2ceSBA"
+  },
+  {
+    "date": "2026-04-27",
+    "title": {
+      "en": "Jiaying Wang won the Second Prize in the Teaching Competition at the China Final of the Huawei ICT Competition.",
+      "zh": "王佳英荣获华为ICT大赛中国总决赛教学赛二等奖"
+    },
+    "link": "https://mp.weixin.qq.com/s/FYzJ7unGdFKxLUnUiSDplA"
+  },
+  {
+    "date": "2026-02-28",
+    "title": {
+      "en": "Congratulations on the acceptance of our paper by CVPR 2026!",
+      "zh": "祝贺我们的论文被CVPR 2026录用！"
+    },
+    "link": "https://mp.weixin.qq.com/s/s8g376z1flA88l1LpFph_w"
+  },
+  {
+    "date": "2026-02-16",
+    "title": {
+      "en": "Congratulations on the acceptance of our paper by ACM Computing Surveys!",
+      "zh": "祝贺我们的论文被ACM Computing Surveys录用！"
+    },
+    "link": "https://mp.weixin.qq.com/s/Kcs5_A7ZAM84NPk1PMAKaQ"
+  }
+]

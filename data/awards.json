@@ -1,0 +1,628 @@
+[
+  {
+    "id": "a34",
+    "year": 2026,
+    "title": {
+      "en": "10th Huawei ICT Competition — Teaching Competition (China Final)",
+      "zh": "第十届华为ICT大赛教学赛"
+    },
+    "level": "national",
+    "prize": {
+      "en": "Second Prize",
+      "zh": "二等奖"
+    },
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": true
+  },
+  {
+    "id": "a35",
+    "year": 2026,
+    "title": {
+      "en": "China Collegiate Computing Contest — AIGC Innovation Competition",
+      "zh": "中国高校计算机大赛 AIGC创新赛"
+    },
+    "level": "northeast",
+    "prize": {
+      "en": "Second Prize",
+      "zh": "二等奖"
+    },
+    "number": "C4-AIGC-2026CZSQ0175",
+    "winners": [
+      "YueWang"
+    ],
+    "advisors": [
+      "JiayingWang"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a32",
+    "year": 2026,
+    "title": {
+      "en": "Outstanding Graduate of Liaoning Province",
+      "zh": "辽宁省优秀毕业生"
+    },
+    "level": "provincial",
+    "prize": null,
+    "number": null,
+    "winners": [
+      "WenlongJia"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a5",
+    "year": 2025,
+    "title": {
+      "en": "3rd National Vocational Skills Competition — Artificial Intelligence Engineering Technology",
+      "zh": "全国第三届职业技能大赛人工智能工程技术赛项"
+    },
+    "level": "national",
+    "prize": {
+      "en": "Merit Award",
+      "zh": "优胜奖"
+    },
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": true
+  },
+  {
+    "id": "a13",
+    "year": 2025,
+    "title": {
+      "en": "\"Huawei Cup\" 7th China Postgraduate Artificial Intelligence Innovation Competition",
+      "zh": "“华为杯”第七届中国研究生人工智能创新大赛"
+    },
+    "level": "national",
+    "prize": {
+      "en": "Third Prize",
+      "zh": "三等奖"
+    },
+    "number": "0625A30056",
+    "winners": [
+      "RuichenLiu",
+      "QianqianLin"
+    ],
+    "advisors": [
+      "JiayingWang"
+    ],
+    "featured": true
+  },
+  {
+    "id": "a23",
+    "year": 2025,
+    "title": {
+      "en": "OpenAtom \"Campus Source\" Program — Outstanding Mentor",
+      "zh": "开放原子校源行优秀指导老师"
+    },
+    "level": "national",
+    "prize": null,
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a27",
+    "year": 2025,
+    "title": {
+      "en": "National Scholarship for Graduate Students",
+      "zh": "研究生国家奖学金"
+    },
+    "level": "national",
+    "prize": null,
+    "number": null,
+    "winners": [
+      "RuichenLiu"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a30",
+    "year": 2025,
+    "title": {
+      "en": "\"Huawei Cup\" 22nd China Postgraduate Mathematical Contest in Modeling",
+      "zh": "“华为杯”第二十二届中国研究生数学建模竞赛"
+    },
+    "level": "national",
+    "prize": {
+      "en": "Third Prize",
+      "zh": "三等奖"
+    },
+    "number": null,
+    "winners": [
+      "WenlongJia",
+      "MengyangZhang",
+      "WuyouWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a6",
+    "year": 2025,
+    "title": {
+      "en": "Liaoning Youth AI Innovation Competition — Universities & Research Institutes Track",
+      "zh": "辽宁省青年AI创新大赛高校院所赛道"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Innovation Award",
+      "zh": "创新奖"
+    },
+    "number": "2025-GY-5013",
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": true
+  },
+  {
+    "id": "a12",
+    "year": 2025,
+    "title": {
+      "en": "9th Huawei ICT Competition — Innovation Competition",
+      "zh": "第九届华为ICT大赛创新赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Third Prize",
+      "zh": "三等奖"
+    },
+    "number": null,
+    "winners": [
+      "RuichenLiu",
+      "ShuailingHao",
+      "ChenyangWang"
+    ],
+    "advisors": [
+      "JiayingWang"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a17",
+    "year": 2025,
+    "title": {
+      "en": "\"Challenge Cup\" Competition",
+      "zh": "挑战杯"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Second Prize",
+      "zh": "二等奖"
+    },
+    "number": null,
+    "winners": [
+      "WenlongJia",
+      "MengyangZhang",
+      "WuyouWang",
+      "YulongMa",
+      "MingyangCao",
+      "ZiyangHe"
+    ],
+    "advisors": [
+      "JingShan",
+      "JiayingWang"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a31",
+    "year": 2025,
+    "title": {
+      "en": "2nd Liaoning College Students' Career Planning Competition",
+      "zh": "辽宁省第二届大学生职业生涯规划大赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Silver Award",
+      "zh": "银奖"
+    },
+    "number": null,
+    "winners": [
+      "WenlongJia"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a36",
+    "year": 2025,
+    "title": {
+      "en": "Liaoning College Students' Information Technology Skills Competition — Ascend AI Track",
+      "zh": "辽宁省大学生信息化技能大赛晟腾AI赛道"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Third Prize",
+      "zh": "三等奖"
+    },
+    "number": "20257131140140",
+    "winners": [
+      "ZhuoWu",
+      "YueWang",
+      "AichenZhang"
+    ],
+    "advisors": [
+      "JiayingWang"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a20",
+    "year": 2025,
+    "title": {
+      "en": "Outstanding Teacher in Teaching",
+      "zh": "教学优秀教师"
+    },
+    "level": "school",
+    "prize": null,
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a21",
+    "year": 2025,
+    "title": {
+      "en": "SUT Faculty Teaching Innovation Competition",
+      "zh": "沈阳工业大学教师教学创新大赛"
+    },
+    "level": "school",
+    "prize": {
+      "en": "Third Prize",
+      "zh": "三等奖"
+    },
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a22",
+    "year": 2025,
+    "title": {
+      "en": "Outstanding Undergraduate Thesis Supervisor (University Level)",
+      "zh": "校优秀本科毕业设计指导教师"
+    },
+    "level": "school",
+    "prize": null,
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a33",
+    "year": 2025,
+    "title": {
+      "en": "SUT Student of the Year",
+      "zh": "沈阳工业大学大学生年度人物荣誉称号"
+    },
+    "level": "school",
+    "prize": null,
+    "number": null,
+    "winners": [
+      "WenlongJia"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a28",
+    "year": 2024,
+    "title": {
+      "en": "National Scholarship for Graduate Students",
+      "zh": "研究生国家奖学金"
+    },
+    "level": "national",
+    "prize": null,
+    "number": null,
+    "winners": [
+      "ShuailingHao"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a1",
+    "year": 2024,
+    "title": {
+      "en": "2nd Liaoning Province Vocational Skills Competition — Artificial Intelligence Engineering Technology",
+      "zh": "辽宁省第二届职业技能大赛人工智能工程技术赛项"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Champion",
+      "zh": "冠军"
+    },
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": true
+  },
+  {
+    "id": "a14",
+    "year": 2024,
+    "title": {
+      "en": "Ascend AI Innovation Competition",
+      "zh": "昇腾AI创新大赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Excellence Award",
+      "zh": "优秀奖"
+    },
+    "number": "ADC3020240002015",
+    "winners": [
+      "YulongMa"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a15",
+    "year": 2024,
+    "title": {
+      "en": "Ascend AI Innovation Competition",
+      "zh": "昇腾AI创新大赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Excellence Award",
+      "zh": "优秀奖"
+    },
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a16",
+    "year": 2024,
+    "title": {
+      "en": "Ascend AI Innovation Competition",
+      "zh": "昇腾AI创新大赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Bronze Award",
+      "zh": "铜奖"
+    },
+    "number": null,
+    "winners": [
+      "ShuailingHao",
+      "WenlongJia"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a2",
+    "year": 2024,
+    "title": {
+      "en": "3rd Shenyang \"Pass on Skills with Ease\" Vocational Skills Competition — Artificial Intelligence Engineering Technology",
+      "zh": "沈阳市第三届“舒心传技”职业技能大赛人工智能工程技术赛项"
+    },
+    "level": "city",
+    "prize": {
+      "en": "Champion",
+      "zh": "冠军"
+    },
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": true
+  },
+  {
+    "id": "a25",
+    "year": 2023,
+    "title": {
+      "en": "14th Lanqiao Cup Special Competition & 1st \"Yuanjing Cup\" Metaverse Creativity + Digital Content Creation Competition — Graphic Design Track",
+      "zh": "第十四届蓝桥杯大赛专项赛暨首届“元境杯元宇宙创想+数字内容创作大赛平面创意赛道"
+    },
+    "level": "national",
+    "prize": {
+      "en": "Second Prize",
+      "zh": "二等奖"
+    },
+    "number": null,
+    "winners": [
+      "ShuailingHao"
+    ],
+    "advisors": [
+      "JiayingWang"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a26",
+    "year": 2023,
+    "title": {
+      "en": "14th Lanqiao Cup Special Competition & 1st \"Yuanjing Cup\" Metaverse Creativity + Digital Content Creation Competition — Graphic Design Track",
+      "zh": "第十四届蓝桥杯大赛专项赛暨首届“元境杯元宇宙创想+数字内容创作大赛平面创意赛道"
+    },
+    "level": "national",
+    "prize": {
+      "en": "Third Prize",
+      "zh": "三等奖"
+    },
+    "number": null,
+    "winners": [
+      "HengYang"
+    ],
+    "advisors": [
+      "JiayingWang"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a7",
+    "year": 2023,
+    "title": {
+      "en": "Ascend AI Innovation Competition",
+      "zh": "昇腾AI创新大赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Bronze Award",
+      "zh": "铜奖"
+    },
+    "number": "ADCSY302023021009",
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a9",
+    "year": 2023,
+    "title": {
+      "en": "Ascend AI Innovation Competition",
+      "zh": "昇腾AI创新大赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Silver Award",
+      "zh": "银奖"
+    },
+    "number": "ADCSY302023023002",
+    "winners": [
+      "ShuailingHao"
+    ],
+    "advisors": [
+      "JiayingWang"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a10",
+    "year": 2023,
+    "title": {
+      "en": "5th Global Campus Artificial Intelligence Algorithm Elite Competition",
+      "zh": "第五届全球校园人工智能算法精英大赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Second Prize",
+      "zh": "二等奖"
+    },
+    "number": "bdc23100041",
+    "winners": [
+      "ShuailingHao",
+      "XiaoxuanMa",
+      "MeilinLiu"
+    ],
+    "advisors": [
+      "JiayingWang",
+      "JingShan"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a11",
+    "year": 2023,
+    "title": {
+      "en": "Ascend AI Innovation Competition",
+      "zh": "昇腾AI创新大赛"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Merit Award",
+      "zh": "优胜奖"
+    },
+    "number": "ADCSY302023021019",
+    "winners": [
+      "XiaoxuanMa",
+      "ShuailingHao"
+    ],
+    "advisors": [
+      "JiayingWang"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a8",
+    "year": 2023,
+    "title": {
+      "en": "SUT Young Teachers' Teaching Skills Competition",
+      "zh": "沈阳工业大学青年教师教学基本功大赛"
+    },
+    "level": "school",
+    "prize": {
+      "en": "Second Prize",
+      "zh": "二等奖"
+    },
+    "number": null,
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a3",
+    "year": 2020,
+    "title": {
+      "en": "Outstanding Archival Science and Technology Achievement of Liaoning Province",
+      "zh": "辽宁省档案优秀科技成果"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Second Prize",
+      "zh": "二等奖"
+    },
+    "number": "2020-2-06-3",
+    "winners": [
+      "JiayingWang"
+    ],
+    "advisors": [],
+    "featured": false
+  },
+  {
+    "id": "a4",
+    "year": 2019,
+    "title": {
+      "en": "Outstanding Archival Science and Technology Achievement of Liaoning Province",
+      "zh": "辽宁省档案优秀科技成果"
+    },
+    "level": "provincial",
+    "prize": {
+      "en": "Third Prize",
+      "zh": "三等奖"
+    },
+    "number": "2019-3-29-1",
+    "winners": [
+      "JiayingWang",
+      "JingShan"
+    ],
+    "advisors": [],
+    "featured": false
+  }
+]

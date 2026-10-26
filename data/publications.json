@@ -1,0 +1,2200 @@
+[
+  {
+    "id": "2026-a-multimodal-outfit-recommendation-q-a-system-ba",
+    "type": "journal",
+    "year": 2026,
+    "title": "A multimodal outfit recommendation Q&A system based on LLMs and KGs",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Ruichen Liu",
+        "member": "RuichenLiu",
+        "zh": "刘睿琛"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      }
+    ],
+    "venue": "The Computer Journal",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": "bxag029",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-B",
+        "zh": "CCF-B"
+      },
+      {
+        "en": "SCI Q4",
+        "zh": "中科院四区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{liu2026multimodal,\n  title={A multimodal outfit recommendation Q\\&A system based on LLMs and KGs},\n  author={Liu, Ruichen and Wang, Jiaying and Shan, Jing},\n  year={2026},\n  journal={The Computer Journal},\n  pages={bxag029}\n}"
+  },
+  {
+    "id": "2026-an-adjustable-series-wise-attention-mechanism-fo",
+    "type": "journal",
+    "year": 2026,
+    "title": "An Adjustable Series-wise Attention Mechanism for Time Series Forecasting",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Yucheng Li",
+        "member": "YuchengLi",
+        "zh": "李俞呈"
+      },
+      {
+        "en": "Kong Sun"
+      },
+      {
+        "en": "Yuanxiang Li"
+      },
+      {
+        "en": "Derong Shen"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Hongwei Cao"
+      },
+      {
+        "en": "Chen Zhao"
+      }
+    ],
+    "venue": "Expert Systems with Applications",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": "133927",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "SCI Q1",
+        "zh": "中科院一区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{li2026adjustable,\n  title={An Adjustable Series-wise Attention Mechanism for Time Series Forecasting},\n  author={Li, Yucheng and Sun, Kong and Li, Yuanxiang and Shen, Derong and Wang, Jiaying and Shan, Jing and Cao, Hongwei and Zhao, Chen},\n  journal={Expert Systems with Applications},\n  pages={133927},\n  year={2026},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "id": "2026-dice-gan-generative-adversarial-network-with-div",
+    "type": "journal",
+    "year": 2026,
+    "title": "Dice-GAN: Generative adversarial network with diversity injection and consistency enhancement",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Xiaoxuan Ma",
+        "member": "XiaoxuanMa",
+        "zh": "马晓萱"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      }
+    ],
+    "venue": "Expert Systems with Applications",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": "330",
+    "issue": null,
+    "pages": "133059",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "SCI Q1",
+        "zh": "中科院一区"
+      }
+    ],
+    "award": null,
+    "doi": "10.1016/j.eswa.2026.133059",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0957417426019706",
+    "code": null,
+    "isNew": false,
+    "featured": true,
+    "bibtex": "@article{shan2026dice,\n  title={Dice-GAN: Generative adversarial network with diversity injection and consistency enhancement},\n  author={Shan, Jing and Ma, Xiaoxuan and Wang, Jiaying},\n  journal={Expert Systems with Applications},\n  volume={330},\n  pages={133059},\n  year={2026},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "id": "2026-implicit-aspect-based-sentiment-analysis-a-syste",
+    "type": "journal",
+    "year": 2026,
+    "title": "Implicit Aspect-Based Sentiment Analysis: A Systematic Review",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Wenlong Jia",
+        "member": "WenlongJia",
+        "zh": "贾文龙"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Mengyang Zhang",
+        "member": "MengyangZhang",
+        "zh": "张梦洋"
+      }
+    ],
+    "venue": "ACM Computing Surveys",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": "58",
+    "issue": "10",
+    "pages": "1–37",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "SCI Q1",
+        "zh": "中科院一区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": true,
+    "bibtex": "@article{jia2026implicit,\n  title={Implicit Aspect-Based Sentiment Analysis: A Systematic Review},\n  author={Jia, Wenlong and Shan, Jing and Wang, Jiaying and Mengyang, Zhang},\n  journal={ACM Computing Surveys},\n  volume={58},\n  number={10},\n  pages={1--37},\n  year={2026},\n  publisher={ACM New York, NY}\n}"
+  },
+  {
+    "id": "2026-multi-task-generative-dialogue-summarization-lea",
+    "type": "journal",
+    "year": 2026,
+    "title": "Multi-task generative dialogue summarization learning framework with topic-based data augmentation",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Mingyang Cao",
+        "member": "MingyangCao",
+        "zh": "曹名洋"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      }
+    ],
+    "venue": "Computer Speech & Language",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": "101998",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "SCI Q3",
+        "zh": "中科院三区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": "https://gitcode.com/aibd/MTGDS",
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{shan2026multi,\n  title={Multi-task generative dialogue summarization learning framework with topic-based data augmentation},\n  author={Shan, Jing and Cao, Mingyang and Wang, Jiaying},\n  journal={Computer Speech \\& Language},\n  pages={101998},\n  year={2026},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "id": "2026-sharp-structure-aware-heterogeneous-attention-wi",
+    "type": "journal",
+    "year": 2026,
+    "title": "SHARP: Structure-aware Heterogeneous Attention with Rotational Processing for Conversational Sentiment Quadruple Analysis",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Wenlong Jia",
+        "member": "WenlongJia",
+        "zh": "贾文龙"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      }
+    ],
+    "venue": "Expert Systems with Applications",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": "132835",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "SCI Q1",
+        "zh": "中科院一区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": "https://atomgit.com/aibd/SHARP",
+    "isNew": false,
+    "featured": true,
+    "bibtex": "@article{shan2026sharp,\n  title={SHARP: Structure-aware Heterogeneous Attention with Rotational Processing for Conversational Sentiment Quadruple Analysis},\n  author={Shan, Jing and Jia, Wenlong and Wang, Jiaying},\n  journal={Expert Systems with Applications},\n  pages={132835},\n  year={2026},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "id": "2026-csai-cross-and-self-attention-interaction-for-co",
+    "type": "conference",
+    "year": 2026,
+    "title": "CSAI: Cross- and Self-Attention Interaction for Compositional Text-to-Image Generation",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Jianyu Zhang",
+        "member": "JianyuZhang",
+        "zh": "张建宇"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Aichen Zhang",
+        "member": "AichenZhang",
+        "zh": "张爱晨"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      }
+    ],
+    "venue": "WISA",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": true,
+    "featured": false,
+    "bibtex": null
+  },
+  {
+    "id": "2026-fame-fusion-adaptation-and-modality-excitation-f",
+    "type": "conference",
+    "year": 2026,
+    "title": "FAME: Fusion Adaptation and Modality Excitation for Robust Multimodal Sentiment Analysis",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Yilun Cheng",
+        "member": "YilunCheng",
+        "zh": "程一伦"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Letong Wang",
+        "member": "LetongWang",
+        "zh": "王乐桐"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      }
+    ],
+    "venue": "WISA",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": true,
+    "featured": false,
+    "bibtex": null
+  },
+  {
+    "id": "2026-omnifm-toward-modality-robust-and-task-agnostic",
+    "type": "conference",
+    "year": 2026,
+    "title": "OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Meilin Liu",
+        "member": "MeilinLiu",
+        "zh": "刘美琳"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      }
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "venueTranslation": null,
+    "venueShort": "CVPR",
+    "volume": null,
+    "issue": null,
+    "pages": "21099–21109",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-A",
+        "zh": "CCF-A"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": true,
+    "bibtex": "@inproceedings{liu2026omnifm,\n  title={OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging},\n  author={Liu, Meilin and Wang, Jiaying and Shan, Jing},\n  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},\n  pages={21099--21109},\n  year={2026}\n}"
+  },
+  {
+    "id": "2026-topological-prototype-learning-for-robust-multim",
+    "type": "conference",
+    "year": 2026,
+    "title": "Topological Prototype Learning for Robust Multimodal Sentiment Analysis under Missing Modalities",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Letong Wang",
+        "member": "LetongWang",
+        "zh": "王乐桐"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Yilun Cheng",
+        "member": "YilunCheng",
+        "zh": "程一伦"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      }
+    ],
+    "venue": "WISA",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": true,
+    "featured": false,
+    "bibtex": null
+  },
+  {
+    "id": "2026-a-multimodal-clothing-recommendation-method",
+    "type": "patent",
+    "year": 2026,
+    "title": "一种多模态服装推荐方法",
+    "titleTranslation": {
+      "en": "A multimodal clothing recommendation method"
+    },
+    "authors": [
+      {
+        "zh": "刘睿琛",
+        "member": "RuichenLiu",
+        "en": "Ruichen Liu"
+      },
+      {
+        "zh": "王佳英",
+        "member": "JiayingWang",
+        "en": "Jiaying Wang"
+      },
+      {
+        "zh": "单菁",
+        "member": "JingShan",
+        "en": "Jing Shan"
+      },
+      {
+        "zh": "胡骏"
+      },
+      {
+        "zh": "宋晓旭",
+        "member": "XiaoxuSong",
+        "en": "Xiaoxu Song"
+      }
+    ],
+    "venue": null,
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "patentNumber": "ZL202510850104.X",
+    "date": "2026-07-01",
+    "indexes": [],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@patent{刘2026一种多模态服装推荐方法,\n  title={一种多模态服装推荐方法},\n  author={刘睿琛;王佳英;单菁;胡骏;宋晓旭},\n  year={2026},\n  number={ZL202510850104.X},\n  date={2026-07-01}\n}"
+  },
+  {
+    "id": "2026-a-dynamic-strategy-medical-question-answering-me",
+    "type": "patent",
+    "year": 2026,
+    "title": "基于大型语言模型和知识图谱的动态策略医学问答方法",
+    "titleTranslation": {
+      "en": "A dynamic-strategy medical question answering method based on large language models and knowledge graphs"
+    },
+    "authors": [
+      {
+        "zh": "刘睿琛",
+        "member": "RuichenLiu",
+        "en": "Ruichen Liu"
+      },
+      {
+        "zh": "王佳英",
+        "member": "JiayingWang",
+        "en": "Jiaying Wang"
+      },
+      {
+        "zh": "单菁",
+        "member": "JingShan",
+        "en": "Jing Shan"
+      },
+      {
+        "zh": "胡骏"
+      },
+      {
+        "zh": "宋晓旭",
+        "member": "XiaoxuSong",
+        "en": "Xiaoxu Song"
+      }
+    ],
+    "venue": null,
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "patentNumber": "ZL202511180993.X",
+    "date": "2026-07-17",
+    "indexes": [],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@patent{刘睿琛2026基于大型语言模型和知识图谱的动态策略医学问答方法,\n  title={基于大型语言模型和知识图谱的动态策略医学问答方法},\n  author={刘睿琛;王佳英;单菁;胡骏;宋晓旭},\n  year={2026},\n  number={ZL202511180993.X},\n  date={2026-07-17}\n}"
+  },
+  {
+    "id": "2025-improve-visual-grounding-with-dynamic-gating-and",
+    "type": "conference",
+    "year": 2025,
+    "title": "Improve Visual Grounding with Dynamic Gating and Dual Stream Attention",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Qianqian Lin",
+        "member": "QianqianLin",
+        "zh": "林倩倩"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Junyi Jiang"
+      }
+    ],
+    "venue": "Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data",
+    "venueTranslation": null,
+    "venueShort": "APWEB",
+    "volume": null,
+    "issue": null,
+    "pages": "318–332",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{lin2025improve,\n  title={Improve Visual Grounding with Dynamic Gating and Dual Stream Attention},\n  author={Lin, Qianqian and Song, Xiaoxu and Shan, Jing and Wang, Jiaying and Jiang, Junyi},\n  booktitle={Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data},\n  pages={318--332},\n  year={2025},\n  organization={Springer}\n}"
+  },
+  {
+    "id": "2025-ksdf-a-knowledge-based-sensitivity-detection-fra",
+    "type": "conference",
+    "year": 2025,
+    "title": "KSDF: A Knowledge-Based Sensitivity Detection Framework for Film Reviews Using Graph Convolutional Network",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Ruichen Liu",
+        "member": "RuichenLiu",
+        "zh": "刘睿琛"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      },
+      {
+        "en": "Haiwen Feng"
+      }
+    ],
+    "venue": "International Conference on Web Information Systems and Applications",
+    "venueTranslation": null,
+    "venueShort": "WISA",
+    "volume": null,
+    "issue": null,
+    "pages": "41–53",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{liu2025ksdf,\n  title={KSDF: A Knowledge-Based Sensitivity Detection Framework for Film Reviews Using Graph Convolutional Network},\n  author={Liu, Ruichen and Wang, Jiaying and Shan, Jing and Song, Xiaoxu and Feng, Haiwen},\n  year={2025},\n  booktitle={International Conference on Web Information Systems and Applications},\n  pages={41--53}\n}"
+  },
+  {
+    "id": "2025-multi-relational-context-learning-with-cross-att",
+    "type": "conference",
+    "year": 2025,
+    "title": "Multi-relational Context Learning with Cross-Attention Augmentation for Human Object Interaction Detection",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Wuyou Wang",
+        "member": "WuyouWang",
+        "zh": "王无忧"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      }
+    ],
+    "venue": "International Conference on Web Information Systems and Applications",
+    "venueTranslation": null,
+    "venueShort": "WISA",
+    "volume": null,
+    "issue": null,
+    "pages": "3–14",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": "excellent-paper",
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{wang2025multi,\n  title={Multi-relational Context Learning with Cross-Attention Augmentation for Human Object Interaction Detection},\n  author={Wang, Wuyou and Wang, Jiaying and Shan, Jing and Song, Xiaoxu},\n  booktitle={International Conference on Web Information Systems and Applications},\n  pages={3--14},\n  year={2025},\n  organization={Springer Nature Singapore Singapore}\n}"
+  },
+  {
+    "id": "2025-an-adaptive-cognitive-learning-network-simulatio",
+    "type": "patent",
+    "year": 2025,
+    "title": "一种基于大语言模型的自适应认知学习网络模拟系统",
+    "titleTranslation": {
+      "en": "An adaptive cognitive learning network simulation system based on large language models"
+    },
+    "authors": [
+      {
+        "zh": "张志常"
+      },
+      {
+        "zh": "王佳英",
+        "member": "JiayingWang",
+        "en": "Jiaying Wang"
+      },
+      {
+        "zh": "范婷"
+      },
+      {
+        "zh": "于宏"
+      },
+      {
+        "zh": "冯海文"
+      },
+      {
+        "zh": "曹苇杭"
+      },
+      {
+        "zh": "王振华"
+      },
+      {
+        "zh": "宋晓宇"
+      },
+      {
+        "zh": "颜南"
+      },
+      {
+        "zh": "王艳华"
+      },
+      {
+        "zh": "单菁",
+        "member": "JingShan",
+        "en": "Jing Shan"
+      },
+      {
+        "zh": "徐东雨"
+      }
+    ],
+    "venue": null,
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "patentNumber": "ZL202411405337.0",
+    "date": "2025-10-24",
+    "indexes": [],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@patent{张志常2025一种基于大语言模型的自适应认知学习网络模拟系统,\n  title={一种基于大语言模型的自适应认知学习网络模拟系统},\n  author={张志常;王佳英;范婷;于宏;冯海文;曹苇杭;王振华;宋晓宇;颜南;王艳华;单菁;徐东雨},\n  year={2025},\n  number={ZL202411405337.0},\n  date={2025-10-24}\n}"
+  },
+  {
+    "id": "2025-an-enhanced-retrieval-method-for-image-captionin",
+    "type": "conference",
+    "year": 2025,
+    "title": "基于多指标重排序的图像描述增强检索方法",
+    "titleTranslation": {
+      "en": "An enhanced retrieval method for image captioning based on multi-metric re-ranking"
+    },
+    "authors": [
+      {
+        "zh": "单菁",
+        "member": "JingShan",
+        "en": "Jing Shan"
+      },
+      {
+        "zh": "马雨龙",
+        "member": "YulongMa",
+        "en": "Yulong Ma"
+      },
+      {
+        "zh": "王佳英",
+        "member": "JiayingWang",
+        "en": "Jiaying Wang"
+      }
+    ],
+    "venue": "第二十二届沈阳科学学术年会论文集——自然科学",
+    "venueTranslation": {
+      "en": "Proceedings of the 22nd Shenyang Science Annual Conference — Natural Sciences"
+    },
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": "101-107",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [],
+    "award": "excellent-paper",
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{单菁2025基于,\n  title={基于多指标重排序的图像描述增强检索方法},\n  author={单菁 and 马雨龙 and 王佳英},\n  year={2025},\n  booktitle={第二十二届沈阳科学学术年会论文集——自然科学},\n  pages={101-107}\n}"
+  },
+  {
+    "id": "2024-high-school-mathematics-knowledge-entity-recogni",
+    "type": "journal",
+    "year": 2024,
+    "title": "基于 RoBERTa-CNN-BiLSTM-CRF 的高中数学知识实体识别",
+    "titleTranslation": {
+      "en": "High-school mathematics knowledge entity recognition based on RoBERTa-CNN-BiLSTM-CRF"
+    },
+    "authors": [
+      {
+        "zh": "赵梓宏",
+        "member": "ZihongZhao",
+        "en": "Zihong Zhao"
+      },
+      {
+        "zh": "单菁",
+        "member": "JingShan",
+        "en": "Jing Shan"
+      },
+      {
+        "zh": "王佳英",
+        "member": "JiayingWang",
+        "en": "Jiaying Wang"
+      }
+    ],
+    "venue": "Artificial Intelligence and Robotics Research",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": "13",
+    "issue": null,
+    "pages": "121",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{赵梓宏2024基于,\n  title={基于 RoBERTa-CNN-BiLSTM-CRF 的高中数学知识实体识别},\n  author={赵梓宏 and 单菁 and 王佳英},\n  year={2024},\n  journal={Artificial Intelligence and Robotics Research},\n  volume={13},\n  pages={121}\n}"
+  },
+  {
+    "id": "2024-attention-based-spatial-temporal-fusion-networks",
+    "type": "conference",
+    "year": 2024,
+    "title": "Attention-Based Spatial-Temporal Fusion Networks for Traffic Flow Prediction",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Heng Yang",
+        "member": "HengYang",
+        "zh": "杨恒"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      },
+      {
+        "en": "Junyi Jiang"
+      }
+    ],
+    "venue": "Proceedings of the International Conference on Web Information Systems and Applications (WISA)",
+    "venueTranslation": null,
+    "venueShort": "WISA",
+    "volume": null,
+    "issue": null,
+    "pages": "500–511",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{wang2024attention,\n  title={Attention-Based Spatial-Temporal Fusion Networks for Traffic Flow Prediction},\n  author={Wang, Jiaying and Yang, Heng and Shan, Jing and Song, Xiaoxu and Jiang, Junyi},\n  year={2024},\n  booktitle={Proceedings of the International Conference on Web Information Systems and Applications (WISA)},\n  pages={500--511}\n}"
+  },
+  {
+    "id": "2024-dual-learning-model-of-code-summary-and-generati",
+    "type": "conference",
+    "year": 2024,
+    "title": "Dual Learning Model of Code Summary and Generation Based on Transformer",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Lijun Cao",
+        "member": "Caolijun",
+        "zh": "曹利君"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      },
+      {
+        "en": "Junyi Jiang"
+      }
+    ],
+    "venue": "Proceedings of the International Conference on Web Information Systems and Applications (WISA)",
+    "venueTranslation": null,
+    "venueShort": "WISA",
+    "volume": null,
+    "issue": null,
+    "pages": "41–52",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{wang2024dual,\n  title={Dual Learning Model of Code Summary and Generation Based on Transformer},\n  author={Wang, Jiaying and Cao, Lijun and Shan, Jing and Song, Xiaoxu and Jiang, Junyi},\n  year={2024},\n  booktitle={Proceedings of the International Conference on Web Information Systems and Applications (WISA)},\n  pages={41--52}\n}"
+  },
+  {
+    "id": "2024-multi-level-supervised-vision-language-model-bas",
+    "type": "conference",
+    "year": 2024,
+    "title": "Multi-level supervised vision language model based steel surface defect detection",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Ying Tan",
+        "member": "YingTan",
+        "zh": "谭营"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      }
+    ],
+    "venue": "Proceedings of the Third International Conference on High Performance Computing and Communication Engineering (HPCCE)",
+    "venueTranslation": null,
+    "venueShort": "HPCCE",
+    "volume": "13073",
+    "issue": null,
+    "pages": "67–72",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{tan2024multi,\n  title={Multi-level supervised vision language model based steel surface defect detection},\n  author={Tan, Ying and Shan, Jing and Wang, Jiaying},\n  year={2024},\n  booktitle={ Proceedings of the Third International Conference on High Performance Computing and Communication Engineering (HPCCE)},\n  volume={13073},\n  pages={67--72}\n}"
+  },
+  {
+    "id": "2024-network-traffic-anomaly-detection-based-on-atten",
+    "type": "conference",
+    "year": 2024,
+    "title": "Network traffic anomaly detection based on attention mechanism with LSTM",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Zhaoyong Yang",
+        "member": "ZhaoyongYang",
+        "zh": "杨兆勇"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jiali Luo"
+      }
+    ],
+    "venue": "Proceedings of the Second International Conference on Informatics, Networking, and Computing (ICINC)",
+    "venueTranslation": null,
+    "venueShort": "ICINC",
+    "volume": "13078",
+    "issue": null,
+    "pages": "310–315",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{yang2024network,\n  title={Network traffic anomaly detection based on attention mechanism with LSTM},\n  author={Yang, ZhaoYong and Wang, JiaYing and Luo, JiaLi},\n  year={2024},\n  booktitle={Proceedings of the Second International Conference on Informatics, Networking, and Computing (ICINC)},\n  volume={13078},\n  pages={310--315}\n}"
+  },
+  {
+    "id": "2024-visual-language-let-the-product-say-what-you-wan",
+    "type": "conference",
+    "year": 2024,
+    "title": "Visual language--let the product say what you want",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Shuailing Hao",
+        "member": "ShuailingHao",
+        "zh": "郝帅领"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Xiaoxu Song",
+        "member": "XiaoxuSong",
+        "zh": "宋晓旭"
+      }
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)",
+    "venueTranslation": null,
+    "venueShort": "AAAI",
+    "volume": "38",
+    "issue": "21",
+    "pages": "23841–23843",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-A",
+        "zh": "CCF-A"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": true,
+    "bibtex": "@inproceedings{wang2024visual,\n  title={Visual language--let the product say what you want},\n  author={Wang, Jiaying and Hao, Shuailing and Shan, Jing and Song, Xiaoxu},\n  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},\n  volume={38},\n  number={21},\n  pages={23841--23843},\n  year={2024}\n}"
+  },
+  {
+    "id": "2024-frontiers-of-multimodal-deep-learning",
+    "type": "book",
+    "year": 2024,
+    "title": "多模态深度学习发展前沿",
+    "titleTranslation": {
+      "en": "Frontiers of Multimodal Deep Learning"
+    },
+    "authors": [
+      {
+        "zh": "王佳英",
+        "member": "JiayingWang",
+        "en": "Jiaying Wang"
+      },
+      {
+        "zh": "单菁",
+        "member": "JingShan",
+        "en": "Jing Shan"
+      },
+      {
+        "zh": "马晓萱",
+        "member": "XiaoxuanMa",
+        "en": "Xiaoxuan Ma"
+      }
+    ],
+    "venue": "辽宁人民出版社",
+    "venueTranslation": {
+      "en": "Liaoning People's Publishing House"
+    },
+    "venueShort": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "辽宁人民出版社",
+    "patentNumber": null,
+    "date": null,
+    "indexes": [],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@book{王佳英2024多模态,\n  title={多模态深度学习发展前沿},\n  author={王佳英 and 单菁 and 马晓萱},\n  year={2024},\n  publisher={辽宁人民出版社},\n  isbn={978-7-205-11381-0}\n}",
+    "isbn": "978-7-205-11381-0"
+  },
+  {
+    "id": "2021-high-quality-error-tolerant-phrase-mining-on-tex",
+    "type": "journal",
+    "year": 2021,
+    "title": "High quality error-tolerant phrase mining on text corpus",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Odafen Ehiaribho Santos"
+      },
+      {
+        "en": "Jinling Bao"
+      }
+    ],
+    "venue": "Expert Systems with Applications",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": "171",
+    "issue": null,
+    "pages": "114557",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "SCI Q1",
+        "zh": "中科院一区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{wang2021high,\n  title={High quality error-tolerant phrase mining on text corpus},\n  author={Wang, Jiaying and Shan, Jing and Santos, Odafen Ehiaribho and Bao, Jinling},\n  journal={Expert Systems with Applications},\n  volume={171},\n  pages={114557},\n  year={2021},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "id": "2019-symmetry-structure-research-of-complex-community",
+    "type": "conference",
+    "year": 2019,
+    "title": "Symmetry structure research of complex community from disconnection vertexes perspective",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Duo Zhai"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Mingyang Shao"
+      },
+      {
+        "en": "Jianzhao Cao"
+      }
+    ],
+    "venue": "Proceedings of the IEEE International Conferences on Data Science and Computational Intelligence (DSCI)",
+    "venueTranslation": null,
+    "venueShort": "DSCI",
+    "volume": null,
+    "issue": null,
+    "pages": "305–311",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{zhai2019symmetry,\n  title={Symmetry structure research of complex community from disconnection vertexes perspective},\n  author={Zhai, Duo and Shan, Jing and Wang, Jiaying and Shao, Mingyang and Cao, Jianzhao},\n  year={2019},\n  booktitle={Proceedings of the IEEE International Conferences on Data Science and Computational Intelligence (DSCI)},\n  pages={305--311}\n}"
+  },
+  {
+    "id": "2019-text-classification-using-scope-based-convolutio",
+    "type": "conference",
+    "year": 2019,
+    "title": "Text classification using scope based convolutional neural network",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Yaxin Li"
+      },
+      {
+        "en": "Yi Ren"
+      },
+      {
+        "en": "Duo Zhai"
+      },
+      {
+        "en": "Jinling Bao"
+      }
+    ],
+    "venue": "Proceedings of the IEEE International Conferences on Data Science and Computational Intelligence (DSCI)",
+    "venueTranslation": null,
+    "venueShort": "DSCI",
+    "volume": null,
+    "issue": null,
+    "pages": "402–407",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{wang2019text,\n  title={Text classification using scope based convolutional neural network},\n  author={Wang, Jiaying and Shan, Jing and Li, Yaxin and Ren, Yi and Zhai, Duo and Bao, Jinling},\n  year={2019},\n  booktitle={Proceedings of the IEEE International Conferences on  Data Science and Computational Intelligence (DSCI) },\n  pages={402--407}\n}"
+  },
+  {
+    "id": "2018-ls-join-local-similarity-join-on-string-collecti",
+    "type": "conference",
+    "year": 2018,
+    "title": "LS-Join: Local Similarity Join on String Collections (Extended Abstract)",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Xiaochun Yang"
+      },
+      {
+        "en": "Bin Wang"
+      },
+      {
+        "en": "Chengfei Liu"
+      }
+    ],
+    "venue": "Proceedings of the IEEE International Conference on Data Engineering (ICDE)",
+    "venueTranslation": null,
+    "venueShort": "ICDE",
+    "volume": null,
+    "issue": null,
+    "pages": "1779–1780",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-A",
+        "zh": "CCF-A"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": "10.1109/ICDE.2018.00247",
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": true,
+    "bibtex": "@inproceedings{Wang2018ls,\n  title={LS-Join: Local Similarity Join on String Collections (Extended Abstract)},\n  author={Jiaying Wang and Xiaochun Yang and Bin Wang and Chengfei Liu},\n  year={2018},\n  booktitle={Proceedings of the {IEEE} International Conference on Data Engineering (ICDE)},\n  pages={1779--1780}\n}"
+  },
+  {
+    "id": "2017-ls-join-local-similarity-join-on-string-collecti",
+    "type": "journal",
+    "year": 2017,
+    "title": "Ls-join: Local similarity join on string collections",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Xiaochun Yang"
+      },
+      {
+        "en": "Bin Wang"
+      },
+      {
+        "en": "Chengfei Liu"
+      }
+    ],
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": "29",
+    "issue": "9",
+    "pages": "1928–1942",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-A",
+        "zh": "CCF-A"
+      },
+      {
+        "en": "SCI Q1",
+        "zh": "中科院一区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": true,
+    "bibtex": "@article{wang2017ls,\n  title={Ls-join: Local similarity join on string collections},\n  author={Wang, Jiaying and Yang, Xiaochun and Wang, Bin and Liu, Chengfei},\n  journal={IEEE Transactions on Knowledge and Data Engineering},\n  volume={29},\n  number={9},\n  pages={1928--1942},\n  year={2017},\n  publisher={IEEE}\n}"
+  },
+  {
+    "id": "2017-a-propagation-hotspot-selection-method-based-on",
+    "type": "journal",
+    "year": 2017,
+    "title": "基于重叠社区搜索的传播热点选择方法",
+    "titleTranslation": {
+      "en": "A propagation hotspot selection method based on overlapping community search"
+    },
+    "authors": [
+      {
+        "zh": "单菁",
+        "member": "JingShan",
+        "en": "Jing Shan"
+      },
+      {
+        "zh": "申德荣"
+      },
+      {
+        "zh": "寇月"
+      },
+      {
+        "zh": "聂铁铮"
+      },
+      {
+        "zh": "于戈"
+      }
+    ],
+    "venue": "软件学报",
+    "venueTranslation": {
+      "en": "Journal of Software"
+    },
+    "venueShort": null,
+    "volume": "28",
+    "issue": "2",
+    "pages": "326–340",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{单菁2017基于重叠社区搜索的传播热点选择方法,\n  title={基于重叠社区搜索的传播热点选择方法},\n  author={单菁 and 申德荣 and 寇月 and 聂铁铮 and 于戈},\n  journal={软件学报},\n  volume={28},\n  number={2},\n  pages={326--340},\n  year={2017}\n}"
+  },
+  {
+    "id": "2016-searching-overlapping-communities-for-group-quer",
+    "type": "journal",
+    "year": 2016,
+    "title": "Searching overlapping communities for group query",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Derong Shen"
+      },
+      {
+        "en": "Tiezheng Nie"
+      },
+      {
+        "en": "Yue Kou"
+      },
+      {
+        "en": "Ge Yu"
+      }
+    ],
+    "venue": "World Wide Web",
+    "venueTranslation": null,
+    "venueShort": null,
+    "volume": "19",
+    "issue": "6",
+    "pages": "1179–1202",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-B",
+        "zh": "CCF-B"
+      },
+      {
+        "en": "SCI Q4",
+        "zh": "中科院四区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{shan2016searching,\n  title={Searching overlapping communities for group query},\n  author={Shan, Jing and Shen, Derong and Nie, Tiezheng and Kou, Yue and Yu, Ge},\n  journal={World Wide Web},\n  volume={19},\n  number={6},\n  pages={1179--1202},\n  year={2016},\n  publisher={Springer}\n}"
+  },
+  {
+    "id": "2016-a-multi-core-parallel-substring-matching-algorit",
+    "type": "journal",
+    "year": 2016,
+    "title": "采用 BWT 的多核并行的子串匹配算法",
+    "titleTranslation": {
+      "en": "A multi-core parallel substring matching algorithm using BWT"
+    },
+    "authors": [
+      {
+        "zh": "王佳英",
+        "member": "JiayingWang",
+        "en": "Jiaying Wang"
+      },
+      {
+        "zh": "王斌"
+      },
+      {
+        "zh": "李晓华"
+      },
+      {
+        "zh": "杨晓春"
+      }
+    ],
+    "venue": "Journal of Northeastern University (Natural Science)",
+    "venueTranslation": null,
+    "venueShort": "东大学报",
+    "volume": "37",
+    "issue": "5",
+    "pages": "624",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{王佳英2016采用,\n  title={采用 BWT 的多核并行的子串匹配算法.},\n  author={王佳英 and 王斌 and 李晓华 and 杨晓春},\n  journal={Journal of Northeastern University (Natural Science)},\n  volume={37},\n  number={5},\n  year={2016}\n}"
+  },
+  {
+    "id": "2016-efficient-query-methods-for-compressed-biologica",
+    "type": "journal",
+    "year": 2016,
+    "title": "面向压缩生物基因数据的高效的查询方法",
+    "titleTranslation": {
+      "en": "Efficient query methods for compressed biological genomic data"
+    },
+    "authors": [
+      {
+        "zh": "王佳英",
+        "member": "JiayingWang",
+        "en": "Jiaying Wang"
+      },
+      {
+        "zh": "王斌"
+      },
+      {
+        "zh": "杨晓春"
+      }
+    ],
+    "venue": "软件学报",
+    "venueTranslation": {
+      "en": "Journal of Software"
+    },
+    "venueShort": null,
+    "volume": "27",
+    "issue": "7",
+    "pages": "1715–1728",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{王佳英2016面向压缩生物基因数据的高效的查询方法,\n  title={面向压缩生物基因数据的高效的查询方法},\n  author={王佳英 and 王斌 and 杨晓春},\n  journal={软件学报},\n  number={7},\n  pages={1715--1728},\n  year={2016}\n}"
+  },
+  {
+    "id": "2016-an-adaptive-approach-of-approximate-substring-ma",
+    "type": "conference",
+    "year": 2016,
+    "title": "An adaptive approach of approximate substring matching",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Xiaochun Yang"
+      },
+      {
+        "en": "Bin Wang"
+      },
+      {
+        "en": "Chengfei Liu"
+      }
+    ],
+    "venue": "Proceedings of the International conference on database systems for advanced applications (DASFAA)",
+    "venueTranslation": null,
+    "venueShort": "DASFAA",
+    "volume": null,
+    "issue": null,
+    "pages": "501–516",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-B",
+        "zh": "CCF-B"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{wang2016adaptive,\n  title={An adaptive approach of approximate substring matching},\n  author={Wang, Jiaying and Yang, Xiaochun and Wang, Bin and Liu, Chengfei},\n  booktitle={Proceedings of the International conference on database systems for advanced applications (DASFAA)},\n  pages={501--516},\n  year={2016},\n  organization={Springer}\n}"
+  },
+  {
+    "id": "2015-an-efficient-approach-of-overlapping-communities",
+    "type": "conference",
+    "year": 2015,
+    "title": "An efficient approach of overlapping communities search",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Derong Shen"
+      },
+      {
+        "en": "Tiezheng Nie"
+      },
+      {
+        "en": "Yue Kou"
+      },
+      {
+        "en": "Ge Yu"
+      }
+    ],
+    "venue": "Proceedings of the International Conference on Database Systems for Advanced Applications (DASFAA)",
+    "venueTranslation": null,
+    "venueShort": "DASFAA",
+    "volume": null,
+    "issue": null,
+    "pages": "374–388",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-B",
+        "zh": "CCF-B"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": "student-best-paper",
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{shan2015efficient,\n  title={An efficient approach of overlapping communities search},\n  author={Shan, Jing and Shen, Derong and Nie, Tiezheng and Kou, Yue and Yu, Ge},\n  booktitle={Proceedings of the International Conference on Database Systems for Advanced Applications (DASFAA)},\n  pages={374--388},\n  year={2015},\n  organization={Springer}\n}"
+  },
+  {
+    "id": "2014-state-of-the-art-in-string-similarity-search-and",
+    "type": "journal",
+    "year": 2014,
+    "title": "State-of-the-art in string similarity search and join",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Sebastian Wandelt"
+      },
+      {
+        "en": "Dong Deng"
+      },
+      {
+        "en": "Stefan Gerdjikov"
+      },
+      {
+        "en": "Shashwat Mishra"
+      },
+      {
+        "en": "Petar Mitankin"
+      },
+      {
+        "en": "Manish Patil"
+      },
+      {
+        "en": "Enrico Siragusa"
+      },
+      {
+        "en": "Alexander Tiskin"
+      },
+      {
+        "en": "Wei Wang"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "name": "et al.",
+        "others": true
+      }
+    ],
+    "venue": "ACM Sigmod Record",
+    "venueTranslation": null,
+    "venueShort": "Sigmod Record",
+    "volume": "43",
+    "issue": "1",
+    "pages": "64–76",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "SCI Q4",
+        "zh": "中科院四区"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@article{wandelt2014state,\n  title={State-of-the-art in string similarity search and join},\n  author={Wandelt, Sebastian and Deng, Dong and Gerdjikov, Stefan and Mishra, Shashwat and Mitankin, Petar and Patil, Manish and Siragusa, Enrico and Tiskin, Alexander and Wang, Wei and Wang, Jiaying and others},\n  journal={ACM Sigmod Record},\n  volume={43},\n  number={1},\n  pages={64--76},\n  year={2014},\n  publisher={ACM New York, NY, USA}\n}"
+  },
+  {
+    "id": "2013-cache-aware-parallel-approximate-matching-and-jo",
+    "type": "conference",
+    "year": 2013,
+    "title": "Cache-aware parallel approximate matching and join algorithms using BWT",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Xiaochun Yang"
+      },
+      {
+        "en": "Bin Wang"
+      }
+    ],
+    "venue": "Proceedings of the Joint EDBT/ICDT 2013 Workshops",
+    "venueTranslation": null,
+    "venueShort": "EDBT workshop",
+    "volume": null,
+    "issue": null,
+    "pages": "404–412",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{wang2013cache,\n  title={Cache-aware parallel approximate matching and join algorithms using BWT},\n  author={Wang, Jiaying and Yang, Xiaochun and Wang, Bin},\n  booktitle={Proceedings of the Joint EDBT/ICDT 2013 Workshops},\n  pages={404--412},\n  year={2013}\n}"
+  },
+  {
+    "id": "2013-efficient-direct-search-on-compressed-genomic-da",
+    "type": "conference",
+    "year": 2013,
+    "title": "Efficient direct search on compressed genomic data",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Xiaochun Yang"
+      },
+      {
+        "en": "Bin Wang"
+      },
+      {
+        "en": "Chen Li"
+      },
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Xiaohui Xie"
+      }
+    ],
+    "venue": "Proceedings of the IEEE International Conference on Data Engineering (ICDE)",
+    "venueTranslation": null,
+    "venueShort": "ICDE",
+    "volume": null,
+    "issue": null,
+    "pages": "961–972",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-A",
+        "zh": "CCF-A"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{yang2013efficient,\n  title={Efficient direct search on compressed genomic data},\n  author={Yang, Xiaochun and Wang, Bin and Li, Chen and Wang, Jiaying and Xie, Xiaohui},\n  year={2013},\n  booktitle={Proceedings of the IEEE International Conference on Data Engineering (ICDE)},\n  pages={961--972}\n}"
+  },
+  {
+    "id": "2012-an-entity-class-model-based-correlated-query-pat",
+    "type": "conference",
+    "year": 2012,
+    "title": "An entity class model based correlated query path selection method in multiple domains",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Derong Shen"
+      },
+      {
+        "en": "Tiezheng Nie"
+      },
+      {
+        "en": "Yue Kou"
+      },
+      {
+        "en": "Ge Yu"
+      }
+    ],
+    "venue": "Proceedings of the Asia-Pacific Web Conference (APWEB)",
+    "venueTranslation": null,
+    "venueShort": "APWEB",
+    "volume": null,
+    "issue": null,
+    "pages": "636–643",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{shan2012entity,\n  title={An entity class model based correlated query path selection method in multiple domains},\n  author={Shan, Jing and Shen, Derong and Nie, Tiezheng and Kou, Yue and Yu, Ge},\n  year={2012},\n  booktitle={Proceedings of the Asia-Pacific Web Conference (APWEB)},\n  pages={636--643}\n}"
+  },
+  {
+    "id": "2012-memory-aware-bwt-by-segmenting-sequences-to-supp",
+    "type": "conference",
+    "year": 2012,
+    "title": "Memory-aware BWT by segmenting sequences to support subsequence search",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jiaying Wang",
+        "member": "JiayingWang",
+        "zh": "王佳英"
+      },
+      {
+        "en": "Xiaochun Yang"
+      },
+      {
+        "en": "Bin Wang"
+      },
+      {
+        "en": "Huaijie Zhu"
+      }
+    ],
+    "venue": "Proceedings of the Asia-Pacific Web Conference (APWEB)",
+    "venueTranslation": null,
+    "venueShort": "APWEB",
+    "volume": null,
+    "issue": null,
+    "pages": "73–84",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{wang2012memory,\n  title={Memory-aware BWT by segmenting sequences to support subsequence search},\n  author={Wang, Jiaying and Yang, Xiaochun and Wang, Bin and Zhu, Huaijie},\n  year={2012},\n  booktitle={Proceedings of the  Asia-Pacific Web Conference (APWEB)},\n  pages={73--84}\n}"
+  },
+  {
+    "id": "2011-a-bottom-up-approach-of-web-data-extraction-base",
+    "type": "conference",
+    "year": 2011,
+    "title": "A Bottom-up Approach of Web Data Extraction based on Entity Recognition and Integration",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Tong Liu"
+      },
+      {
+        "en": "Derong Shen"
+      },
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Tiezheng Nie"
+      },
+      {
+        "en": "Yue Kou"
+      }
+    ],
+    "venue": "Proceedings of the Web Information Systems and Applications Conference (WISA)",
+    "venueTranslation": null,
+    "venueShort": "WISA",
+    "volume": null,
+    "issue": null,
+    "pages": "150–155",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{liu2011bottom,\n  title={A Bottom-up Approach of Web Data Extraction based on Entity Recognition and Integration},\n  author={Liu, Tong and Shen, Derong and Shan, Jing and Nie, Tiezheng and Kou, Yue},\n  year={2011},\n  booktitle={ Proceedings of the Web Information Systems and Applications Conference (WISA)},\n  pages={150--155}\n}"
+  },
+  {
+    "id": "2010-an-effective-and-high-quality-query-relaxation-s",
+    "type": "conference",
+    "year": 2010,
+    "title": "An effective and high-quality query relaxation solution on the deep web",
+    "titleTranslation": null,
+    "authors": [
+      {
+        "en": "Jing Shan",
+        "member": "JingShan",
+        "zh": "单菁"
+      },
+      {
+        "en": "Derong Shen"
+      },
+      {
+        "en": "Tiezheng Nie"
+      },
+      {
+        "en": "Yue Kou"
+      },
+      {
+        "en": "Ge Yu"
+      }
+    ],
+    "venue": "Proceedings of the International Asia-Pacific Web Conference (APWEB)",
+    "venueTranslation": null,
+    "venueShort": "APWEB",
+    "volume": null,
+    "issue": null,
+    "pages": "68–74",
+    "publisher": null,
+    "patentNumber": null,
+    "date": null,
+    "indexes": [
+      {
+        "en": "CCF-C",
+        "zh": "CCF-C"
+      },
+      {
+        "en": "EI",
+        "zh": "EI"
+      }
+    ],
+    "award": null,
+    "doi": null,
+    "url": null,
+    "code": null,
+    "isNew": false,
+    "featured": false,
+    "bibtex": "@inproceedings{shan2010effective,\n  title={An effective and high-quality query relaxation solution on the deep web},\n  author={Shan, Jing and Shen, Derong and Nie, Tiezheng and Kou, Yue and Yu, Ge},\n  year={2010},\n  booktitle={Proceedings of the International Asia-Pacific Web Conference (APWEB)},\n  pages={68--74}\n}"
+  }
+]

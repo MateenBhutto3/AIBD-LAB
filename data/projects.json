@@ -1,0 +1,203 @@
+[
+  {
+    "id": "p4",
+    "title": {
+      "en": "Industrial Internet Platform for Integrated Design and Manufacturing",
+      "zh": "面向设计制造一体化的工业互联网平台"
+    },
+    "number": "2025JH1/11700011",
+    "start": 2025,
+    "end": 2026,
+    "funding": {
+      "en": "Key Special Projects of Science and Technology in Liaoning Province",
+      "zh": "辽宁省科技重大专项"
+    },
+    "pi": null,
+    "participants": [
+      "JiayingWang",
+      "JingShan",
+      "WenlongJia"
+    ],
+    "members": [],
+    "research": []
+  },
+  {
+    "id": "p6",
+    "title": {
+      "en": "Construction and Application of a Digital Platform for Intelligent Manufacturing Based on Big Data and Artificial Intelligence",
+      "zh": "基于大数据与人工智能的智能制造数字化平台建设与应用研究"
+    },
+    "number": "231002108104009",
+    "start": 2024,
+    "end": 2025,
+    "funding": {
+      "en": "The Ministry of Education's University-Industry Collaborative Education Program",
+      "zh": "教育部产学合作协同育人项目"
+    },
+    "pi": "JiayingWang",
+    "participants": [],
+    "members": [
+      "JingShan",
+      "XiaoxuSong",
+      "ChenyangWang",
+      "XiaoxuanMa",
+      "Caolijun",
+      "ShuailingHao",
+      "WenlongJia"
+    ],
+    "research": []
+  },
+  {
+    "id": "p7",
+    "title": {
+      "en": "Construction of the Key Laboratory for Intelligent Manufacturing of High-End Industrial Equipment",
+      "zh": "高端工业装备制造智能化重点实验室建设项目"
+    },
+    "number": "LJ232410142088",
+    "start": 2024,
+    "end": 2026,
+    "funding": {
+      "en": "Liaoning Provincial Education Department Project for Basic Research Platforms of Higher Education Institutions",
+      "zh": "辽宁省教育厅高等学校基本科研平台项目"
+    },
+    "pi": "JingShan",
+    "participants": [],
+    "members": [
+      "JiayingWang",
+      "XiaoxuSong",
+      "WenlongJia"
+    ],
+    "research": []
+  },
+  {
+    "id": "p9",
+    "title": {
+      "en": "Implementation Pathways of the Industry–Education–Research Integration Mechanism in a School of Software",
+      "zh": "产教科融合机制在软件学院落地实施路径研究"
+    },
+    "number": "ZJJX24CY008",
+    "start": 2024,
+    "end": 2024,
+    "funding": {
+      "en": "Educational reform project of the Mechanical Engineering Education Association",
+      "zh": "机工教育协会教改项目"
+    },
+    "pi": "JiayingWang",
+    "participants": [],
+    "members": [
+      "JingShan",
+      "XiaoxuSong"
+    ],
+    "research": []
+  },
+  {
+    "id": "p3",
+    "title": {
+      "en": "Intelligent Perception Technologies for Multimodal Big Data",
+      "zh": "面向多模态大数据的智能感知技术研究"
+    },
+    "number": "JYTMS20231226",
+    "start": 2023,
+    "end": 2025,
+    "funding": {
+      "en": "General Project of the Department of Education of Liaoning Province",
+      "zh": "辽宁省教育厅面上项目"
+    },
+    "pi": "JiayingWang",
+    "participants": [],
+    "members": [
+      "JingShan",
+      "XiaoxuSong",
+      "HengYang",
+      "ChenyangWang",
+      "XiaoxuanMa",
+      "Caolijun",
+      "ShuailingHao",
+      "WenlongJia"
+    ],
+    "research": []
+  },
+  {
+    "id": "p5",
+    "title": {
+      "en": "Policy Research on Improving the Entrepreneurship Incubation System of Liaoning Province",
+      "zh": "关于我省完善创业孵化体系的对策研究"
+    },
+    "number": "Lzwzx2023-27",
+    "start": 2023,
+    "end": 2023,
+    "funding": {
+      "en": "Special Research Project on Decision-making Consultation and New Think Tanks in Liaoning Province",
+      "zh": "辽宁省决策咨询和新型智库专项研究课题"
+    },
+    "pi": "JiayingWang",
+    "participants": [],
+    "members": [
+      "JingShan",
+      "XiaoxuSong",
+      "HengYang",
+      "WenlongJia"
+    ],
+    "research": []
+  },
+  {
+    "id": "p8",
+    "title": {
+      "en": "Local Approximate Matching Techniques for Biological Big Data",
+      "zh": "面向生物大数据的局部近似匹配技术研究"
+    },
+    "number": "lnqn202015",
+    "start": 2020,
+    "end": 2022,
+    "funding": {
+      "en": "Youth Cultivation Project of the Department of Education of Liaoning Province",
+      "zh": "辽宁省教育厅青年育苗项目"
+    },
+    "pi": "JiayingWang",
+    "participants": [],
+    "members": [
+      "JingShan"
+    ],
+    "research": []
+  },
+  {
+    "id": "p1",
+    "title": {
+      "en": "Key Techniques for Intelligent Approximate Entity Matching over Massive Text Data",
+      "zh": "海量文本数据下实体智能近似匹配的关键技术研究"
+    },
+    "number": "61702346",
+    "start": 2018,
+    "end": 2020,
+    "funding": {
+      "en": "National Natural Science Foundation of China",
+      "zh": "国家自然科学基金"
+    },
+    "pi": "JiayingWang",
+    "participants": [],
+    "members": [
+      "JingShan"
+    ],
+    "research": []
+  },
+  {
+    "id": "p2",
+    "title": {
+      "en": "Key Techniques for Deep Team-Formation Strategies Based on Cross-Platform Resource Integration",
+      "zh": "基于跨平台资源整合的团队形成深度策略关键技术研究"
+    },
+    "number": "61702345",
+    "start": 2018,
+    "end": 2020,
+    "funding": {
+      "en": "National Natural Science Foundation of China",
+      "zh": "国家自然科学基金"
+    },
+    "pi": "JingShan",
+    "participants": [],
+    "members": [
+      "JiayingWang"
+    ],
+    "research": []
+  }
+]

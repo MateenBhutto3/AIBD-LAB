@@ -1,0 +1,687 @@
+{
+  "shortName": "AIBD Lab",
+  "name": {
+    "en": "Artificial Intelligence and Big Data Laboratory",
+    "zh": "人工智能与大数据实验室"
+  },
+  "localName": {
+    "en": "AIBD Lab",
+    "zh": "AIBD 实验室"
+  },
+  "institution": {
+    "en": "School of Software, Shenyang University of Technology",
+    "zh": "沈阳工业大学 软件学院"
+  },
+  "university": {
+    "en": "Shenyang University of Technology",
+    "zh": "沈阳工业大学"
+  },
+  "mission": {
+    "en": "We focus on research in artificial intelligence (AI) and big data (BD) — developing multimodal deep learning, language understanding and efficient data management methods that turn complex, heterogeneous data into knowledge.",
+    "zh": "我们专注于人工智能（AI）与大数据（BD）研究，致力于多模态深度学习、语言理解与高效数据管理方法，将复杂、异构的数据转化为知识。"
+  },
+  "description": {
+    "en": "AIBD Lab is a research laboratory at the School of Software, Shenyang University of Technology, focusing on artificial intelligence and big data, led by Associate Professor Jiaying Wang.",
+    "zh": "AIBD 实验室隶属沈阳工业大学软件学院，由王佳英副教授领衔，专注于人工智能与大数据研究。"
+  },
+  "contact": {
+    "email": "jiaying@sut.edu.cn",
+    "address": {
+      "en": "School of Software, Shenyang University of Technology, Shenyang, Liaoning, China",
+      "zh": "中国 辽宁省沈阳市 沈阳工业大学 软件学院"
+    },
+    "streetAddress": null,
+    "office": null,
+    "phone": null
+  },
+  "links": [
+    {
+      "label": {
+        "en": "MTGDS on GitCode",
+        "zh": "MTGDS（GitCode）"
+      },
+      "url": "https://gitcode.com/aibd/MTGDS"
+    },
+    {
+      "label": {
+        "en": "SHARP on AtomGit",
+        "zh": "SHARP（AtomGit）"
+      },
+      "url": "https://atomgit.com/aibd/SHARP"
+    }
+  ],
+  "ui": {
+    "skip": {
+      "en": "Skip to main content",
+      "zh": "跳到主要内容"
+    },
+    "menu": {
+      "en": "Menu",
+      "zh": "菜单"
+    },
+    "closeMenu": {
+      "en": "Close menu",
+      "zh": "关闭菜单"
+    },
+    "mainNav": {
+      "en": "Main navigation",
+      "zh": "主导航"
+    },
+    "langLabel": {
+      "en": "Language",
+      "zh": "语言"
+    },
+    "switchTo": {
+      "en": "切换到中文",
+      "zh": "Switch to English"
+    },
+    "nav": {
+      "home": {
+        "en": "Home",
+        "zh": "首页"
+      },
+      "research": {
+        "en": "Research",
+        "zh": "研究方向"
+      },
+      "publications": {
+        "en": "Publications",
+        "zh": "学术成果"
+      },
+      "projects": {
+        "en": "Projects",
+        "zh": "科研项目"
+      },
+      "awards": {
+        "en": "Awards",
+        "zh": "荣誉奖项"
+      },
+      "members": {
+        "en": "Members",
+        "zh": "团队成员"
+      },
+      "news": {
+        "en": "News",
+        "zh": "新闻动态"
+      },
+      "contact": {
+        "en": "Contact",
+        "zh": "联系我们"
+      }
+    },
+    "placeholder": {
+      "en": "[To be provided]",
+      "zh": "【待补充】"
+    },
+    "readMore": {
+      "en": "Read more",
+      "zh": "了解更多"
+    },
+    "viewAll": {
+      "en": "View all",
+      "zh": "查看全部"
+    },
+    "fullProfile": {
+      "en": "View full profile",
+      "zh": "查看完整主页"
+    },
+    "email": {
+      "en": "Email",
+      "zh": "邮箱"
+    },
+    "orcid": {
+      "en": "ORCID",
+      "zh": "ORCID"
+    },
+    "home": {
+      "eyebrow": {
+        "en": "School of Software · Shenyang University of Technology",
+        "zh": "沈阳工业大学 · 软件学院"
+      },
+      "ctaResearch": {
+        "en": "Explore our research",
+        "zh": "探索研究方向"
+      },
+      "ctaPubs": {
+        "en": "Browse publications",
+        "zh": "浏览学术成果"
+      },
+      "stats": {
+        "publications": {
+          "en": "Publications & patents",
+          "zh": "论文、专著与专利"
+        },
+        "projects": {
+          "en": "Funded projects",
+          "zh": "科研项目"
+        },
+        "awards": {
+          "en": "Awards & honours",
+          "zh": "荣誉奖项"
+        },
+        "members": {
+          "en": "Team members",
+          "zh": "团队成员"
+        }
+      },
+      "leadEyebrow": {
+        "en": "Principal Investigator",
+        "zh": "学术带头人"
+      },
+      "researchTitle": {
+        "en": "Research areas",
+        "zh": "研究方向"
+      },
+      "researchLead": {
+        "en": "Our work spans six connected directions, from multimodal representation learning to efficient query processing over massive data.",
+        "zh": "我们的研究涵盖六个相互关联的方向，从多模态表征学习到海量数据上的高效查询处理。"
+      },
+      "pubsTitle": {
+        "en": "Selected publications",
+        "zh": "代表性成果"
+      },
+      "pubsLead": {
+        "en": "Highlights from the lab's papers in leading journals and conferences.",
+        "zh": "实验室在国际重要期刊与会议上的代表性论文。"
+      },
+      "newsTitle": {
+        "en": "Latest news",
+        "zh": "最新动态"
+      },
+      "awardsTitle": {
+        "en": "Achievements & awards",
+        "zh": "成就与奖项"
+      },
+      "awardsLead": {
+        "en": "Recognition received by the lab's faculty and students.",
+        "zh": "实验室教师与学生获得的荣誉与奖项。"
+      },
+      "teamTitle": {
+        "en": "Our team",
+        "zh": "研究团队"
+      },
+      "teamLead": {
+        "en": "Faculty and graduate students working together on AI and big data research.",
+        "zh": "由教师与研究生组成的人工智能与大数据研究团队。"
+      },
+      "studentsCount": {
+        "en": "{n} master's students across {c} cohorts",
+        "zh": "{n} 名硕士研究生，覆盖 {c} 个年级"
+      },
+      "meetTeam": {
+        "en": "Meet the whole team",
+        "zh": "认识全体成员"
+      },
+      "contactTitle": {
+        "en": "Collaborate with us",
+        "zh": "合作与交流"
+      },
+      "contactLead": {
+        "en": "For research collaboration and academic enquiries, please get in touch.",
+        "zh": "如需开展科研合作或学术交流，欢迎与我们联系。"
+      }
+    },
+    "research": {
+      "title": {
+        "en": "Research",
+        "zh": "研究方向"
+      },
+      "lead": {
+        "en": "AIBD Lab studies artificial intelligence and big data, with an emphasis on multimodal data intelligence. The directions below are drawn from the lab's published work and the stated interests of its members.",
+        "zh": "AIBD 实验室从事人工智能与大数据研究，重点关注多模态数据智能。以下研究方向依据实验室已发表成果及成员的研究兴趣整理。"
+      },
+      "topics": {
+        "en": "Key topics",
+        "zh": "关键主题"
+      },
+      "relatedPubs": {
+        "en": "Related publications",
+        "zh": "相关成果"
+      },
+      "relatedProjects": {
+        "en": "Related projects",
+        "zh": "相关项目"
+      },
+      "relatedMembers": {
+        "en": "Researchers",
+        "zh": "相关成员"
+      },
+      "other": {
+        "en": "Other research directions",
+        "zh": "其他研究方向"
+      },
+      "pubCount": {
+        "en": "publications",
+        "zh": "项成果"
+      }
+    },
+    "pubs": {
+      "title": {
+        "en": "Publications",
+        "zh": "学术成果"
+      },
+      "lead": {
+        "en": "Journal articles, conference papers, books and patents by members of the lab. Lab members are highlighted.",
+        "zh": "实验室成员发表的期刊论文、会议论文、专著与专利。实验室成员姓名已加粗显示。"
+      },
+      "search": {
+        "en": "Search title, author or venue",
+        "zh": "搜索标题、作者或期刊会议"
+      },
+      "searchLabel": {
+        "en": "Search publications",
+        "zh": "搜索成果"
+      },
+      "type": {
+        "en": "Type",
+        "zh": "类型"
+      },
+      "year": {
+        "en": "Year",
+        "zh": "年份"
+      },
+      "all": {
+        "en": "All",
+        "zh": "全部"
+      },
+      "allYears": {
+        "en": "All years",
+        "zh": "全部年份"
+      },
+      "types": {
+        "journal": {
+          "en": "Journal article",
+          "zh": "期刊论文"
+        },
+        "conference": {
+          "en": "Conference paper",
+          "zh": "会议论文"
+        },
+        "book": {
+          "en": "Book",
+          "zh": "专著"
+        },
+        "patent": {
+          "en": "Patent",
+          "zh": "发明专利"
+        }
+      },
+      "typesPlural": {
+        "journal": {
+          "en": "Journals",
+          "zh": "期刊"
+        },
+        "conference": {
+          "en": "Conferences",
+          "zh": "会议"
+        },
+        "book": {
+          "en": "Books",
+          "zh": "专著"
+        },
+        "patent": {
+          "en": "Patents",
+          "zh": "专利"
+        }
+      },
+      "results": {
+        "en": "results",
+        "zh": "条结果"
+      },
+      "noResults": {
+        "en": "No publications match your filters.",
+        "zh": "没有符合条件的成果。"
+      },
+      "reset": {
+        "en": "Reset filters",
+        "zh": "重置筛选"
+      },
+      "cite": {
+        "en": "Cite",
+        "zh": "引用"
+      },
+      "copy": {
+        "en": "Copy BibTeX",
+        "zh": "复制 BibTeX"
+      },
+      "copied": {
+        "en": "Copied",
+        "zh": "已复制"
+      },
+      "doi": {
+        "en": "DOI",
+        "zh": "DOI"
+      },
+      "link": {
+        "en": "Paper",
+        "zh": "全文"
+      },
+      "code": {
+        "en": "Code",
+        "zh": "代码"
+      },
+      "new": {
+        "en": "New",
+        "zh": "新"
+      },
+      "patentNo": {
+        "en": "Patent No.",
+        "zh": "专利号"
+      },
+      "granted": {
+        "en": "Granted",
+        "zh": "授权日"
+      },
+      "isbn": {
+        "en": "ISBN",
+        "zh": "ISBN"
+      },
+      "awards": {
+        "excellent-paper": {
+          "en": "Excellent Paper Award",
+          "zh": "优秀论文奖"
+        },
+        "student-best-paper": {
+          "en": "Best Student Paper Award",
+          "zh": "最佳学生论文奖"
+        }
+      },
+      "translated": {
+        "en": "English translation of the original Chinese title",
+        "zh": "原中文标题的英文译名"
+      },
+      "alias": {
+        "en": "The publications page has moved.",
+        "zh": "学术成果页面已迁移。"
+      }
+    },
+    "projects": {
+      "title": {
+        "en": "Projects",
+        "zh": "科研项目"
+      },
+      "lead": {
+        "en": "Research and education projects led or undertaken by members of the lab, funded by national, provincial and industry programmes.",
+        "zh": "实验室成员主持或参与的国家级、省部级及产学合作科研与教改项目。"
+      },
+      "number": {
+        "en": "Project No.",
+        "zh": "项目编号"
+      },
+      "period": {
+        "en": "Period",
+        "zh": "起止年份"
+      },
+      "pi": {
+        "en": "Principal investigator",
+        "zh": "项目负责人"
+      },
+      "participants": {
+        "en": "Participants",
+        "zh": "参与人员"
+      },
+      "members": {
+        "en": "Lab members involved",
+        "zh": "参与的实验室成员"
+      },
+      "original": {
+        "en": "Original title",
+        "zh": "英文名称"
+      },
+      "all": {
+        "en": "All programmes",
+        "zh": "全部类别"
+      }
+    },
+    "awards": {
+      "title": {
+        "en": "Awards & Achievements",
+        "zh": "荣誉奖项"
+      },
+      "lead": {
+        "en": "Competition awards, scholarships and honours received by the lab's faculty and students.",
+        "zh": "实验室教师与学生获得的竞赛奖项、奖学金与荣誉称号。"
+      },
+      "winners": {
+        "en": "Awardees",
+        "zh": "获奖者"
+      },
+      "advisors": {
+        "en": "Advisors",
+        "zh": "指导教师"
+      },
+      "number": {
+        "en": "Certificate No.",
+        "zh": "证书编号"
+      },
+      "honour": {
+        "en": "Honour",
+        "zh": "荣誉称号"
+      },
+      "all": {
+        "en": "All levels",
+        "zh": "全部级别"
+      },
+      "levels": {
+        "national": {
+          "en": "National",
+          "zh": "国家级"
+        },
+        "northeast": {
+          "en": "Regional (Northeast)",
+          "zh": "东北赛区"
+        },
+        "provincial": {
+          "en": "Provincial",
+          "zh": "省级"
+        },
+        "city": {
+          "en": "Municipal",
+          "zh": "市级"
+        },
+        "school": {
+          "en": "University",
+          "zh": "校级"
+        }
+      },
+      "count": {
+        "en": "awards",
+        "zh": "项"
+      }
+    },
+    "members": {
+      "title": {
+        "en": "Members",
+        "zh": "团队成员"
+      },
+      "lead": {
+        "en": "The AIBD Lab team: faculty members and master's students of the School of Software, Shenyang University of Technology.",
+        "zh": "AIBD 实验室团队：沈阳工业大学软件学院的教师与硕士研究生。"
+      },
+      "search": {
+        "en": "Search by name or research interest",
+        "zh": "按姓名或研究兴趣搜索"
+      },
+      "searchLabel": {
+        "en": "Search members",
+        "zh": "搜索成员"
+      },
+      "role": {
+        "en": "Role",
+        "zh": "身份"
+      },
+      "all": {
+        "en": "All",
+        "zh": "全部"
+      },
+      "faculty": {
+        "en": "Faculty",
+        "zh": "教师"
+      },
+      "master": {
+        "en": "Master's Students",
+        "zh": "硕士研究生"
+      },
+      "cohort": {
+        "en": "Cohort",
+        "zh": "年级"
+      },
+      "allCohorts": {
+        "en": "All cohorts",
+        "zh": "全部年级"
+      },
+      "cohortLabel": {
+        "en": "Class of {y}",
+        "zh": "{y} 级"
+      },
+      "noResults": {
+        "en": "No members match your search.",
+        "zh": "没有符合条件的成员。"
+      },
+      "shown": {
+        "en": "members shown",
+        "zh": "位成员"
+      },
+      "interests": {
+        "en": "Research interests",
+        "zh": "研究兴趣"
+      },
+      "bio": {
+        "en": "Biography",
+        "zh": "个人简介"
+      },
+      "positions": {
+        "en": "Positions",
+        "zh": "职务"
+      },
+      "memberships": {
+        "en": "Professional memberships",
+        "zh": "学术兼职"
+      },
+      "honours": {
+        "en": "Talent programmes & honours",
+        "zh": "人才计划与荣誉"
+      },
+      "education": {
+        "en": "Education",
+        "zh": "教育背景"
+      },
+      "publications": {
+        "en": "Publications",
+        "zh": "学术成果"
+      },
+      "projects": {
+        "en": "Projects",
+        "zh": "科研项目"
+      },
+      "awards": {
+        "en": "Awards",
+        "zh": "荣誉奖项"
+      },
+      "contact": {
+        "en": "Contact",
+        "zh": "联系方式"
+      },
+      "department": {
+        "en": "School of Software",
+        "zh": "软件学院"
+      },
+      "back": {
+        "en": "All members",
+        "zh": "全部成员"
+      },
+      "none": {
+        "en": "None listed yet.",
+        "zh": "暂无。"
+      },
+      "asAdvisor": {
+        "en": "as advisor",
+        "zh": "指导教师"
+      }
+    },
+    "news": {
+      "title": {
+        "en": "News",
+        "zh": "新闻动态"
+      },
+      "lead": {
+        "en": "Announcements from AIBD Lab: paper acceptances, open-source releases and awards.",
+        "zh": "AIBD 实验室最新动态：论文录用、开源发布与获奖信息。"
+      },
+      "external": {
+        "en": "opens in a new tab",
+        "zh": "在新标签页打开"
+      }
+    },
+    "contact": {
+      "title": {
+        "en": "Contact",
+        "zh": "联系我们"
+      },
+      "lead": {
+        "en": "We welcome enquiries about research collaboration and academic exchange.",
+        "zh": "欢迎就科研合作与学术交流与我们联系。"
+      },
+      "address": {
+        "en": "Address",
+        "zh": "地址"
+      },
+      "street": {
+        "en": "Street address & office",
+        "zh": "详细地址与办公室"
+      },
+      "phone": {
+        "en": "Phone",
+        "zh": "电话"
+      },
+      "faculty": {
+        "en": "Faculty contacts",
+        "zh": "教师联系方式"
+      },
+      "opensource": {
+        "en": "Open-source projects",
+        "zh": "开源项目"
+      },
+      "lab": {
+        "en": "Laboratory",
+        "zh": "实验室"
+      }
+    },
+    "notFound": {
+      "title": {
+        "en": "Page not found",
+        "zh": "页面未找到"
+      },
+      "lead": {
+        "en": "Sorry, the page you are looking for does not exist or has been moved.",
+        "zh": "抱歉，您访问的页面不存在或已被移动。"
+      },
+      "home": {
+        "en": "Back to homepage",
+        "zh": "返回首页"
+      }
+    },
+    "footer": {
+      "rights": {
+        "en": "All rights reserved.",
+        "zh": "保留所有权利。"
+      },
+      "explore": {
+        "en": "Explore",
+        "zh": "浏览"
+      },
+      "contact": {
+        "en": "Contact",
+        "zh": "联系"
+      },
+      "backToTop": {
+        "en": "Back to top",
+        "zh": "返回顶部"
+      }
+    },
+    "breadcrumb": {
+      "en": "Breadcrumb",
+      "zh": "面包屑导航"
+    }
+  }
+}
